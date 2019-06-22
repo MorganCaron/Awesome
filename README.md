@@ -42,7 +42,7 @@ Awesome List of frameworks, libraries, tutorials, cheatsheets, software, tools, 
 - [:video_game: Screeps](https://screeps.com/)
 - [:star2: Mozilla Web Documentations](https://developer.mozilla.org/fr/)
 - [:book: :star2: Learn X in Y minutes](https://learnxinyminutes.com/)
-- [:star2: Zeste de savori](https://zestedesavoir.com/)
+- [:star2: Zeste de savoir](https://zestedesavoir.com/)
 
 ### Algorithm
 - [Poisson Disk Sampling](http://devmag.org.za/2009/05/03/poisson-disk-sampling/)
