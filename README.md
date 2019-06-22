@@ -1,5 +1,5 @@
 # Awesome [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-Awesome List of frameworks, libraries, tutorials, cheatsheets, software, tools, plugins...
+Awesome List of frameworks, libraries, tutorials, cheatsheets, softwares, tools, plugins...
 
 ---
 
