@@ -52,6 +52,7 @@ Awesome List of frameworks, libraries, tutorials, cheatsheets, softwares, tools,
 
 ### C++
 - [C++, Qt, OpenGL, CUDA](http://guillaume.belz.free.fr/)
+- [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 
 ### Web
 - [Grafikart](https://www.youtube.com/user/grafikarttv)
