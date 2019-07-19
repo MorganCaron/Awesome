@@ -125,6 +125,7 @@ Awesome List of frameworks, libraries, tutorials, cheatsheets, softwares, tools,
 
 ## Hack
 - [:video_game: :star2: Hack This](https://www.hackthis.co.uk/)
+- [:video_game: NewbieContest](https://www.newbiecontest.org/)
 - [Root Me](https://www.root-me.org/)
 - [CrackStation](https://crackstation.net/)
 
