@@ -53,6 +53,7 @@ Awesome List of frameworks, libraries, tutorials, cheatsheets, softwares, tools,
 ### C++
 - [C++, Qt, OpenGL, CUDA](http://guillaume.belz.free.fr/)
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+- [:star2: Godbolt Compiler Explorer](https://godbolt.org/z/-tyK61)
 
 ### Web
 - [Grafikart](https://www.youtube.com/user/grafikarttv)
@@ -126,6 +127,7 @@ Awesome List of frameworks, libraries, tutorials, cheatsheets, softwares, tools,
 
 ## Hack
 - [:video_game: :star2: Hack This](https://www.hackthis.co.uk/)
+- [:video_game: NewbieContest](https://www.newbiecontest.org/)
 - [Root Me](https://www.root-me.org/)
 - [CrackStation](https://crackstation.net/)
 
