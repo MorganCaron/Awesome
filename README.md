@@ -102,6 +102,7 @@ Awesome List of frameworks, libraries, tutorials, cheatsheets, softwares, tools,
 - [CompressNow](https://compressnow.com/)
 - [Picular](https://picular.co/)
 - [Flat UI Colors](https://flatuicolors.com/)
+- [SVGBackgrounds](https://www.svgbackgrounds.com/)
 - [:book: :star2: Easings](https://easings.net/)
 - [Syncope](https://nowodzinski.pl/syncope/)
 - [Front-End Checklist](https://frontendchecklist.io/)
