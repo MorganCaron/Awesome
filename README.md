@@ -1,5 +1,5 @@
 # Awesome [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-Awesome List of frameworks, libraries, tutorials, cheatsheets, softwares, tools, plugins...
+Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, softwares, tools, plugins, etc.
 
 ---
 
@@ -25,7 +25,7 @@ Awesome List of frameworks, libraries, tutorials, cheatsheets, softwares, tools,
 ### Legend
 
 :video_game: : Gamification
-:book: : Cheatsheet
+:book: : Documentation/Cheatsheet
 :star2: : Favorite
 
 ---
@@ -45,6 +45,7 @@ Awesome List of frameworks, libraries, tutorials, cheatsheets, softwares, tools,
 - [:book: :star2: Learn X in Y minutes](https://learnxinyminutes.com/)
 - [:star2: Zeste de savoir](https://zestedesavoir.com/)
 - [:star2: SirLynixVanFrietjes' Blog](https://sirlynixvanfrietjes.be/)
+- [:book: DevDocs](https://devdocs.io/)
 
 ### Algorithm
 - [Poisson Disk Sampling](http://devmag.org.za/2009/05/03/poisson-disk-sampling/)
