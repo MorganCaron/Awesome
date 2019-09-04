@@ -58,6 +58,7 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 
 ### Web
 - [Grafikart](https://www.youtube.com/user/grafikarttv)
+- [:book: JavaScript Array Explorer](https://sdras.github.io/array-explorer/)
 
 #### Front-end
 
