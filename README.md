@@ -121,6 +121,7 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 - [:star2: Web Dev](https://web.dev/)
 - [Ubersuggest](https://neilpatel.com/fr/ubersuggest/)
 - [Kamakou - SEO performance audit](http://molokai.be/kamakou)
+- [JWT.io](https://jwt.io/)
 
 #### Back-end
 
