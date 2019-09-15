@@ -98,6 +98,8 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 - [:book: Grid Maven](http://grid.malven.co/)
 
 ##### Utils
+- [caniuse.com](https://caniuse.com/)
+- [caniemail.com](https://www.caniemail.com/)
 - [Initializr](http://www.initializr.com/)
 - [LoremPixel](http://lorempixel.com/)
 - [DummyImage](https://dummyimage.com/)
