@@ -7,18 +7,19 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 
 - [Git](#git)
 - [Programming](#programming)
-	- [General](#general)
-	- [Algorithm](#algorithm)
-	- [C++](#c)
-	- [Web](#web)
-		- [Front-end](#front-end)
-			- [Libs / Frameworks](#libs-frameworks)
-			- [Tutorials](#tutorials)
-			- [Flexbox](#flexbox)
-			- [Grid](#grid)
-			- [Utils](#utils)
-		- [Back-end](#back-end)
-			- [Softwares](#softwares)
+	- [General](#programminggeneral)
+	- [Algorithm](#programmingalgorithm)
+	- [Utils](#programmingutils)
+	- [C++](#programmingc)
+	- [Web](#programmingweb)
+		- [Front-end](#programmingwebfront-end)
+			- [Libs / Frameworks](#programmingwebfront-endlibsframeworks)
+			- [Tutorials](#programmingwebfront-endtutorials)
+			- [Flexbox](#programmingwebfront-endtutorialsflexbox)
+			- [Grid](#programmingwebfront-endtutorialsgrid)
+			- [Utils](#programmingwebfront-endutils)
+		- [Back-end](#programmingwebback-end)
+			- [Softwares](#programmingwebback-endsoftwares)
 - [Hack](#hack)
 - [Other](#other)
 
@@ -37,7 +38,7 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 
 ## Programming
 
-### General
+### Programming::General
 - [:video_game: :star2: Coding game](https://www.codingame.com/start)
 - [:video_game: Leek Wars](https://leekwars.com/)
 - [:video_game: Screeps](https://screeps.com/)
@@ -47,22 +48,25 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 - [:star2: SirLynixVanFrietjes' Blog](https://sirlynixvanfrietjes.be/)
 - [:book: DevDocs](https://devdocs.io/)
 
-### Algorithm
+### Programming::Algorithm
 - [Poisson Disk Sampling](http://devmag.org.za/2009/05/03/poisson-disk-sampling/)
 - [Théorie des Collisions](https://jeux.developpez.com/tutoriels/theorie-des-collisions/)
 
-### C++
+### Programming::Utils
+- [Gitignore](https://github.com/github/gitignore)
+
+### Programming::C++
 - [C++, Qt, OpenGL, CUDA](http://guillaume.belz.free.fr/)
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 - [:star2: Godbolt Compiler Explorer](https://godbolt.org/z/-tyK61)
 
-### Web
+### Programming::Web
 - [Grafikart](https://www.youtube.com/user/grafikarttv)
 - [:book: JavaScript Array Explorer](https://sdras.github.io/array-explorer/)
 
-#### Front-end
+#### Programming::Web::Front-end
 
-##### Libs / Frameworks
+##### Programming::Web::Front-end::Libs/Frameworks
 - [Font Awesome](https://fontawesome.com/)
 - [Icofont](https://icofont.com/)
 - [Bootstrap](https://getbootstrap.com/)
@@ -83,22 +87,22 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 - [Auth0](https://auth0.com/)
 - [Prism.js](https://prismjs.com/)
 
-##### Tutorials
+##### Programming::Web::Front-end::Tutorials
 - [MarkSheet](https://marksheet.io/)
 - [:book: :star2: The 30 CSS Selectors you must memorize](https://code.tutsplus.com/fr/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 - [JavaScript.info - The Modern JavaScript Tutorial](https://javascript.info/)
 - [:star2: Unjquerify](https://www.unjquerify.com/)
 
-###### Flexbox
+###### Programming::Web::Front-end::Tutorials::Flexbox
 - [:video_game: :star2: Flexbox Froggy](https://flexboxfroggy.com/)
 - [:video_game: Flexbox Defense](http://www.flexboxdefense.com/)
 - [:book: :star2: A Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-###### Grid
+###### Programming::Web::Front-end::Tutorials::Grid
 - [:video_game: :star2: CSS Grid Garden](https://cssgridgarden.com/)
 - [:book: Grid Maven](http://grid.malven.co/)
 
-##### Utils
+##### Programming::Web::Front-end::Utils
 - [caniuse.com](https://caniuse.com/)
 - [caniemail.com](https://www.caniemail.com/)
 - [Initializr](http://www.initializr.com/)
@@ -125,9 +129,9 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 - [Kamakou - SEO performance audit](http://molokai.be/kamakou)
 - [JWT.io](https://jwt.io/)
 
-#### Back-end
+#### Programming::Web::Back-end
 
-##### Softwares
+##### Programming::Web::Back-end::Softwares
 - [Insomnia](https://insomnia.rest/)
 
 ## Hack
