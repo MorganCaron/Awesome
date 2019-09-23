@@ -72,6 +72,8 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 - [Icofont](https://icofont.com/)
 - [Bootstrap](https://getbootstrap.com/)
 - [Materialize](https://materializecss.com/)
+- [Material UI](https://material-ui.com/)
+- [Semantic UI](https://semantic-ui.com/)
 - [Material Design Lite](https://getmdl.io/)
 - [Angular](https://angular.io/)
 - [React](https://reactjs.org/)
