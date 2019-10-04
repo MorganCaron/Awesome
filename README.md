@@ -25,10 +25,10 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 
 ### Legend
 
-:star: : Favorite
-:book: : Documentation/Cheatsheet
-:movie_camera: : Video
-:video_game: : Gamification
+:star: : Favorite\
+:book: : Documentation/Cheatsheet\
+:movie_camera: : Video\
+:video_game: : Gamification\
 :wrench: : Utility
 
 ---
