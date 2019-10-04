@@ -63,7 +63,7 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 - [:star: Godbolt Compiler Explorer](https://godbolt.org/z/-tyK61)
 - [FluentCpp](https://www.fluentcpp.com/)
-- [:movie_camera: Jason Turner](https://www.youtube.com/user/lefticus1)
+- [:star: :movie_camera: Jason Turner](https://www.youtube.com/user/lefticus1)
 
 ### Programming::Web
 - [:star: :movie_camera: Grafikart](https://www.youtube.com/user/grafikarttv)
