@@ -50,6 +50,7 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 - [:star: Zeste de savoir](https://zestedesavoir.com/)
 - [:star: SirLynixVanFrietjes' Blog](https://sirlynixvanfrietjes.be/)
 - [:book: DevDocs](https://devdocs.io/)
+- [:star: :book: GoalKicker](https://goalkicker.com/)
 
 ### Programming::Algorithm
 - [Poisson Disk Sampling](http://devmag.org.za/2009/05/03/poisson-disk-sampling/)
