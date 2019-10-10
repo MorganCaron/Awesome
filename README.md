@@ -81,6 +81,7 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 - [Material UI](https://material-ui.com/)
 - [Semantic UI](https://semantic-ui.com/)
 - [Material Design Lite](https://getmdl.io/)
+- [Angular Material](https://material.angular.io/)
 - [Angular](https://angular.io/)
 - [React](https://reactjs.org/)
 - [Vue.js](https://vuejs.org/)
