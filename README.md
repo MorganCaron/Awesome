@@ -58,6 +58,7 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 
 ### Programming::Utils
 - [:wrench: Gitignore](https://github.com/github/gitignore)
+- [Codacy](https://www.codacy.com/)
 
 ### Programming::C++
 - [C++, Qt, OpenGL, CUDA](http://guillaume.belz.free.fr/)
@@ -149,6 +150,18 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 - [:video_game: NewbieContest](https://www.newbiecontest.org/)
 - [Root Me](https://www.root-me.org/)
 - [:wrench: CrackStation](https://crackstation.net/)
+
+## Resources
+
+### Sound Bank
+- [Google Sound Library](https://developers.google.com/assistant/tools/sound-library/)
+
+### Texture
+- [HDRI Haven](https://hdrihaven.com/hdris/)
+- [Texture Haven](https://texturehaven.com/textures/)
+
+### Models
+- [RenderPeople Free 3D Human Models](https://renderpeople.com/free-3d-people/)
 
 ## Other
 - [IconArchive](http://www.iconarchive.com/)
