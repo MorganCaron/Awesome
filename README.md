@@ -6,6 +6,7 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 ## Contents
 
 - [Git](#git)
+	- [CI](#ci)
 - [Programming](#programming)
 	- [General](#programminggeneral)
 	- [Algorithm](#programmingalgorithm)
@@ -21,6 +22,10 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 		- [Back-end](#programmingwebback-end)
 			- [Softwares](#programmingwebback-endsoftwares)
 - [Hack](#hack)
+- [Resources](#resources)
+	- [SoundBanks](#soundbank)
+	- [Textures](#textures)
+	- [Models](#models)
 - [Other](#other)
 
 ### Legend
@@ -38,6 +43,10 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 - [:star: Shields.io](https://shields.io/)
 - [:star: GitSpo](https://gitspo.com/)
 - [Badgen](https://badgen.net/)
+
+### Git::CI
+- [Travis CI](https://travis-ci.com/)
+- [Github Actions](https://github.com/features/actions)
 
 ## Programming
 
@@ -153,10 +162,10 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 
 ## Resources
 
-### Sound Bank
+### SoundBanks
 - [Google Sound Library](https://developers.google.com/assistant/tools/sound-library/)
 
-### Texture
+### Textures
 - [HDRI Haven](https://hdrihaven.com/hdris/)
 - [Texture Haven](https://texturehaven.com/textures/)
 
