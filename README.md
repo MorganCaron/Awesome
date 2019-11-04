@@ -6,7 +6,7 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 ## Contents
 
 - [Git](#git)
-	- [CI](#ci)
+	- [CI](#gitci)
 - [Programming](#programming)
 	- [General](#programminggeneral)
 	- [Algorithm](#programmingalgorithm)
@@ -23,9 +23,9 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 			- [Softwares](#programmingwebback-endsoftwares)
 - [Hack](#hack)
 - [Resources](#resources)
-	- [SoundBanks](#soundbank)
-	- [Textures](#textures)
-	- [Models](#models)
+	- [SoundBanks](#resourcessoundbank)
+	- [Textures](#resourcestextures)
+	- [Models](#resourcesmodels)
 - [Other](#other)
 
 ### Legend
@@ -107,6 +107,8 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 - [Leaflet.js](https://leafletjs.com/)
 - [Auth0](https://auth0.com/)
 - [Prism.js](https://prismjs.com/)
+- [PulpLoad](https://www.plupload.com/)
+- [ElasticSearch](https://www.elastic.co/fr/)
 
 ##### Programming::Web::Front-end::Tutorials
 - [MarkSheet](https://marksheet.io/)
