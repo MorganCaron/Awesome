@@ -46,6 +46,7 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 
 ### Git::CI
 - [Travis CI](https://travis-ci.com/)
+- [Circle CI](https://circleci.com/)
 - [Github Actions](https://github.com/features/actions)
 
 ## Programming
