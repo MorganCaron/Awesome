@@ -26,6 +26,7 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 	- [SoundBanks](#resourcessoundbank)
 	- [Textures](#resourcestextures)
 	- [Models](#resourcesmodels)
+	- [Drivers](#resourcesdrivers)
 - [Other](#other)
 
 ### Legend
@@ -174,6 +175,9 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 
 ### Models
 - [RenderPeople Free 3D Human Models](https://renderpeople.com/free-3d-people/)
+
+### Drivers
+- [TLD](https://www.touslesdrivers.com/)
 
 ## Other
 - [IconArchive](http://www.iconarchive.com/)
