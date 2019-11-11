@@ -70,6 +70,7 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 ### Programming::Utils
 - [:wrench: Gitignore](https://github.com/github/gitignore)
 - [Codacy](https://www.codacy.com/)
+- [Figma](https://www.figma.com/)
 
 ### Programming::C++
 - [C++, Qt, OpenGL, CUDA](http://guillaume.belz.free.fr/)
