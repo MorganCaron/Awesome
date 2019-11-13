@@ -62,6 +62,7 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 - [:star: SirLynixVanFrietjes' Blog](https://sirlynixvanfrietjes.be/)
 - [:book: DevDocs](https://devdocs.io/)
 - [:star: :book: GoalKicker](https://goalkicker.com/)
+- [:star: Refactoring.guru Design-Patterns](https://refactoring.guru/design-patterns/catalog)
 
 ### Programming::Algorithm
 - [Poisson Disk Sampling](http://devmag.org.za/2009/05/03/poisson-disk-sampling/)
