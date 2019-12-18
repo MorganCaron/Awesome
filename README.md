@@ -79,6 +79,7 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 - [:star: Godbolt Compiler Explorer](https://godbolt.org/z/-tyK61)
 - [FluentCpp](https://www.fluentcpp.com/)
 - [:star: :movie_camera: Jason Turner](https://www.youtube.com/user/lefticus1)
+- [Blog de Jonathan Poelen](https://jonathanpoelen.github.io/)
 
 ### Programming::Web
 - [:star: :movie_camera: Grafikart](https://www.youtube.com/user/grafikarttv)
@@ -189,5 +190,7 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 - [GhostProject](https://ghostproject.fr/)
 - [:star: Chiffrer.info](https://chiffrer.info/)
 - [No More Ransom!](https://www.nomoreransom.org/fr/index.html)
+- [Google Remote Desktop](https://remotedesktop.google.com/)
+- [DeepL](https://www.deepl.com/translator)
 
 ---
