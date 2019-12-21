@@ -166,6 +166,7 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 - [:video_game: NewbieContest](https://www.newbiecontest.org/)
 - [Root Me](https://www.root-me.org/)
 - [:wrench: CrackStation](https://crackstation.net/)
+- [:star: IDA Pro](https://www.hex-rays.com/products/ida/support/download.shtml)
 
 ## Resources
 
