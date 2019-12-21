@@ -168,6 +168,14 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 - [Root Me](https://www.root-me.org/)
 - [:wrench: CrackStation](https://crackstation.net/)
 - [:star: IDA Pro](https://www.hex-rays.com/products/ida/support/download.shtml)
+- [WinHTTrack](https://www.httrack.com/)
+- [Bluesniff](http://www.bluejackingtools.com/unix/bluesniff/)
+- [Btscanner](https://www.google.com/search?q=btscanner)
+- [Social Engineering Toolkit](https://github.com/trustedsec/social-engineer-toolkit)
+- [Can-utils](https://github.com/linux-can/can-utils)
+- [hcitool](https://www.google.com/search?q=hcitool)
+- [csr_sniffer](https://www.google.com/search?q=csr_sniffer)
+- [Nethunter](https://www.google.com/search?q=Nethunter)
 
 ## Resources
 
@@ -179,6 +187,7 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 - [Texture Haven](https://texturehaven.com/textures/)
 
 ### Models
+- [:star: MakeHuman](http://www.makehumancommunity.org/)
 - [RenderPeople Free 3D Human Models](https://renderpeople.com/free-3d-people/)
 
 ### Drivers
@@ -198,5 +207,7 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 - [No More Ransom!](https://www.nomoreransom.org/fr/index.html)
 - [Google Remote Desktop](https://remotedesktop.google.com/)
 - [DeepL](https://www.deepl.com/translator)
+- [:wrench: Shutdown-IT](https://www.logitheque.com/logiciels/windows/utilitaires/systeme_arret_demarrage/telecharger/shutdown_it_19664.htm)
+- [:wrench: MyPublicWifi](https://mypublicwifi.com/)
 
 ---
