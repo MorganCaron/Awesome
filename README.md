@@ -27,6 +27,7 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 	- [Textures](#resourcestextures)
 	- [Models](#resourcesmodels)
 	- [Drivers](#resourcesdrivers)
+- [Licenses](#licenses)
 - [Other](#other)
 
 ### Legend
@@ -182,6 +183,10 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 
 ### Drivers
 - [TLD](https://www.touslesdrivers.com/index.php?v_page=29)
+
+## Licenses
+- [:star: Choose a License](https://choosealicense.com/)
+- [CreativeCommons Licenses](https://creativecommons.org/licenses/)
 
 ## Other
 - [IconArchive](http://www.iconarchive.com/)
