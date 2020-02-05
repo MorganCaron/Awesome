@@ -96,6 +96,7 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 - [:star: Meson](https://mesonbuild.com/)
 - [C++, Qt, OpenGL, CUDA](http://guillaume.belz.free.fr/)
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+- [More C++ Idioms](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms)
 - [:star: Godbolt Compiler Explorer](https://godbolt.org/z/-tyK61)
 - [FluentCpp](https://www.fluentcpp.com/)
 - [:star: :movie_camera: Jason Turner](https://www.youtube.com/user/lefticus1)
