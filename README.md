@@ -9,6 +9,9 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 	- [CI](#gitci)
 - [Programming](#programming)
 	- [General](#programminggeneral)
+	- [IDE](#programmingide)
+	- [Build Tools](#programmingbuild-tools)
+		- [Compilers](#programmingbuild-toolscompilers)
 	- [Algorithm](#programmingalgorithm)
 	- [Utils](#programmingutils)
 	- [C++](#programmingc)
@@ -64,6 +67,20 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 - [:book: DevDocs](https://devdocs.io/)
 - [:star: :book: GoalKicker](https://goalkicker.com/)
 - [:star: :book: Refactoring.guru Design-Patterns](https://refactoring.guru/design-patterns/catalog)
+- [:start: Build your own X](https://github.com/danistefanovic/build-your-own-x)
+
+### Programming::IDE
+- [Visual Studio Community](https://visualstudio.microsoft.com/pl/thank-you-downloading-visual-studio/?sku=Community)
+
+### Programming::Build Tools
+- [CMake](https://cmake.org/)
+- [CMake Tutorial](https://alexandre-laurent.developpez.com/tutoriels/cmake/)
+- [CMake Official Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
+- [Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
+- [:star: Meson](https://mesonbuild.com/)
+
+#### Programming::Build Tools::Compilers
+- [Visual Studio Build Tools](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools)
 
 ### Programming::Algorithm
 - [Poisson Disk Sampling](http://devmag.org.za/2009/05/03/poisson-disk-sampling/)
@@ -75,6 +92,8 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 - [Figma](https://www.figma.com/)
 
 ### Programming::C++
+- [CMake](https://cmake.org/)
+- [:star: Meson](https://mesonbuild.com/)
 - [C++, Qt, OpenGL, CUDA](http://guillaume.belz.free.fr/)
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 - [:star: Godbolt Compiler Explorer](https://godbolt.org/z/-tyK61)
