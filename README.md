@@ -48,6 +48,7 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 - [:star: Shields.io](https://shields.io/)
 - [:star: GitSpo](https://gitspo.com/)
 - [Badgen](https://badgen.net/)
+- [Gource](https://gource.io/)
 
 ### Git::CI
 - [Travis CI](https://travis-ci.com/)
@@ -68,6 +69,7 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 - [:star: :book: GoalKicker](https://goalkicker.com/)
 - [:star: :book: Refactoring.guru Design-Patterns](https://refactoring.guru/design-patterns/catalog)
 - [:start: Build your own X](https://github.com/danistefanovic/build-your-own-x)
+- [:book: Books GoalKicker](https://books.goalkicker.com/)
 
 ### Programming::IDE
 - [Visual Studio Community](https://visualstudio.microsoft.com/pl/thank-you-downloading-visual-studio/?sku=Community)
