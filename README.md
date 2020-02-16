@@ -198,6 +198,7 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 - [hcitool](https://www.google.com/search?q=hcitool)
 - [csr_sniffer](https://www.google.com/search?q=csr_sniffer)
 - [Nethunter](https://www.google.com/search?q=Nethunter)
+- [ResourceHacker](http://www.angusj.com/resourcehacker/)
 
 ## Resources
 
