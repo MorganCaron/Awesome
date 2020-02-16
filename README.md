@@ -199,6 +199,7 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 - [csr_sniffer](https://www.google.com/search?q=csr_sniffer)
 - [Nethunter](https://www.google.com/search?q=Nethunter)
 - [ResourceHacker](http://www.angusj.com/resourcehacker/)
+- [ResEdit](http://www.resedit.net/)
 
 ## Resources
 
