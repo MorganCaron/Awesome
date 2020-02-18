@@ -92,6 +92,7 @@ Awesome List of frameworks, libraries, tutorials, documentations, cheatsheets, s
 - [:wrench: Gitignore](https://github.com/github/gitignore)
 - [Codacy](https://www.codacy.com/)
 - [Figma](https://www.figma.com/)
+- [Regex101](https://regex101.com/)
 
 ### Programming::C++
 - [CMake](https://cmake.org/)
