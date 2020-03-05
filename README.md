@@ -13,6 +13,7 @@
 	- [IDE](Programming/IDE.md)
 	- [Build Tools](Programming/Build%20Tools.md)
 	- [Algorithms](Programming/Algorithms.md)
+	- [Artificial Intelligence](Programming/Artificial%20Intelligence.md)
 	- [Utils](Programming/Utils.md)
 	- [C++](Programming/C++.md)
 	- [Web](Programming/Web/index.md)

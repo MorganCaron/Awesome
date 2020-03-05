@@ -13,7 +13,7 @@
 - [:book: DevDocs](https://devdocs.io/)
 - [:star: :book: GoalKicker](https://goalkicker.com/)
 - [:star: :book: Refactoring.guru Design-Patterns](https://refactoring.guru/design-patterns/catalog)
-- [:start: Build your own X](https://github.com/danistefanovic/build-your-own-x)
+- [:star: Build your own X](https://github.com/danistefanovic/build-your-own-x)
 - [:book: Books GoalKicker](https://books.goalkicker.com/)
 
 ## Specializations
@@ -21,6 +21,7 @@
 - [IDE](IDE.md)
 - [Build Tools](Build%20Tools.md)
 - [Algorithms](Algorithms.md)
+- [Artificial Intelligence](Artificial%20Intelligence.md)
 - [Utils](Utils.md)
 - [C++](C++.md)
 - [Web](Web/index.md)
