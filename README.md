@@ -19,6 +19,7 @@
 	- [Web](Programming/Web/index.md)
 - **[Hack](Hack.md)**
 - **[Resources](Resources.md)**
+	- [Icons](Resources.md#Icons)
 	- [SoundBanks](Resources.md#SoundBanks)
 	- [Textures](Resources.md#Textures)
 	- [Models](Resources.md#Models)
