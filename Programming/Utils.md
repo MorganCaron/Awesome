@@ -7,6 +7,7 @@
 - [Codacy](https://www.codacy.com/)
 - [Figma](https://www.figma.com/)
 - [Regex101](https://regex101.com/)
+- [Grafana](https://grafana.com/)
 
 ---
 
