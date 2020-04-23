@@ -20,6 +20,11 @@
 - [ResEdit](http://www.resedit.net/)
 - [Wireshark](https://www.wireshark.org/)
 
+## Concepts
+- [Security through obscurity](https://en.wikipedia.org/wiki/Security_through_obscurity)
+- [Phishing](https://fr.wikipedia.org/wiki/Hame%C3%A7onnage)
+- [Domain Squatting](https://fr.wikipedia.org/wiki/Cybersquattage)
+
 ---
 
 ### Legend
