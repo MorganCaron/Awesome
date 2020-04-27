@@ -19,6 +19,7 @@
 	- [C++](Programming/C++.md)
 	- [Web](Programming/Web/index.md)
 - **[Hack](Hack.md)**
+- **[Hardware](Hardware.md)**
 - **[Resources](Resources.md)**
 	- [Icons](Resources.md#Icons)
 	- [SoundBanks](Resources.md#SoundBanks)
