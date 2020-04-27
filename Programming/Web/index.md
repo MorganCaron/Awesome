@@ -6,6 +6,8 @@
 - [:star: :movie_camera: Grafikart](https://www.youtube.com/user/grafikarttv)
 - [:book: JavaScript Array Explorer](https://sdras.github.io/array-explorer/)
 - [:wrench: CreateApp.dev Webpack & Parcel utility](https://createapp.dev/)
+- [:wrench: JsFiddle](https://jsfiddle.net/)
+- [:wrench: CodeSandbox.io](https://codesandbox.io/)
 
 ### Specializations
 - [Front-end](Front-end.md)
