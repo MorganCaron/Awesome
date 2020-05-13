@@ -12,6 +12,8 @@
 - [:star: :movie_camera: Jason Turner](https://www.youtube.com/user/lefticus1)
 - [Blog de Jonathan Poelen](https://jonathanpoelen.github.io/)
 - [Auto: Pièges et évolutions du C++ Moderne](https://blog.invivoo.com/auto-pieges-et-evolutions-du-c-moderne/)
+- [Smart-Pointers](https://sirlynixvanfrietjes.be/2018/05/23/c-moderne-la-gestion-de-la-memoire/)
+- [RAII](https://fr.wikipedia.org/wiki/Resource_acquisition_is_initialization)
 
 ---
 
