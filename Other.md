@@ -15,6 +15,7 @@
 - [:wrench: Shutdown-IT](https://www.logitheque.com/logiciels/windows/utilitaires/systeme_arret_demarrage/telecharger/shutdown_it_19664.htm)
 - [:wrench: MyPublicWifi](https://mypublicwifi.com/)
 - [:wrench: Namelix](https://namelix.com/)
+- [Malt](https://www.malt.fr/)
 
 ---
 
