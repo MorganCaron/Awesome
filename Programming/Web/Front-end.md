@@ -27,6 +27,8 @@
 - [Prism.js](https://prismjs.com/)
 - [PulpLoad](https://www.plupload.com/)
 - [ElasticSearch](https://www.elastic.co/fr/)
+- [HTMHell](https://www.htmhell.dev/)
+- [The Vanilla JavaScript Toolkit](https://vanillajstoolkit.com/)
 
 ## Tutorials
 - [MarkSheet](https://marksheet.io/)
