@@ -8,6 +8,9 @@
 - [:star: GitSpo](https://gitspo.com/)
 - [Badgen](https://badgen.net/)
 - [Gource](https://gource.io/)
+- [Gitlab](https://gitlab.com/)
+- [:star: Github](https://github.com/)
+- [Github Sponsors](https://github.com/sponsors)
 
 ### CI
 - [Travis CI](https://travis-ci.com/)
