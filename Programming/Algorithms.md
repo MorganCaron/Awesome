@@ -6,6 +6,10 @@
 - [Poisson Disk Sampling](http://devmag.org.za/2009/05/03/poisson-disk-sampling/)
 - [Théorie des Collisions](https://jeux.developpez.com/tutoriels/theorie-des-collisions/)
 
+### Pathfinding
+
+- [RedBlobGames A* tutorial](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
+
 ---
 
 ### Legend
