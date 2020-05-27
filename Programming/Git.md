@@ -10,6 +10,7 @@
 - [Gource](https://gource.io/)
 - [Gitlab](https://gitlab.com/)
 - [:star: Github](https://github.com/)
+- [Github CLI](https://cli.github.com/)
 - [Github Sponsors](https://github.com/sponsors)
 
 ### CI
