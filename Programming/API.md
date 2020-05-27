@@ -13,8 +13,9 @@
 #### OpenGL
 - [:star: Learn OpenGL](https://learnopengl.com/)
 
-#### GLSL
-- [Intro to mesh shaders](https://www.geeks3d.com/20200519/introduction-to-mesh-shaders-opengl-and-vulkan/)
+#### Shaders
+- [Intro to Mesh Shaders](https://www.geeks3d.com/20200519/introduction-to-mesh-shaders-opengl-and-vulkan/)
+- [Introduction to Turing Mesh Shaders](https://devblogs.nvidia.com/introduction-turing-mesh-shaders/)
 
 ---
 
