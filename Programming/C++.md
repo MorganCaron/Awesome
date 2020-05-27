@@ -17,8 +17,7 @@
 - [:star: Smart-Pointers](https://sirlynixvanfrietjes.be/2018/05/23/c-moderne-la-gestion-de-la-memoire/)
 - [:star: Const à gauche ou à droite](https://sirlynixvanfrietjes.be/2018/06/02/pinaillage-c-le-const-a-gauche-ou-a-droite/)
 - [:star: C++ moderne: Les accents](https://sirlynixvanfrietjes.be/2020/01/14/cpp-moderne-les-accents/)
-- [:star: Learn OpenGL](https://learnopengl.com/)
-- [:star: Vulkan Tutorial](https://vulkan-tutorial.com/)
+
 ---
 
 ### Legend

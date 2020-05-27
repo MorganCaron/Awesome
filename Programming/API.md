@@ -1,0 +1,28 @@
+# [Main Menu](../README.md) / [Programming](index.md) / API [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
+[![Back to Parent Page](https://img.shields.io/badge/-Back_to_Parent_Page-blue?style=for-the-badge)](index.md)
+
+## General
+
+### Graphics
+
+#### Vulkan
+- [:star: Vulkan Tutorial](https://vulkan-tutorial.com/)
+- [Demo RGB triangle with mesh shaders](https://www.geeks3d.com/hacklab/20200515/demo-rgb-triangle-with-mesh-shaders-in-vulkan/)
+
+#### OpenGL
+- [:star: Learn OpenGL](https://learnopengl.com/)
+
+#### GLSL
+- [Intro to mesh shaders](https://www.geeks3d.com/20200519/introduction-to-mesh-shaders-opengl-and-vulkan/)
+
+---
+
+### Legend
+:star: : Favorite\
+:book: : Documentation/Cheatsheet\
+:movie_camera: : Video\
+:video_game: : Gamification\
+:wrench: : Utility
+
+---
