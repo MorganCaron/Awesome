@@ -5,7 +5,6 @@
 ## General
 - [:video_game: Learn Git Branching](https://learngitbranching.js.org/)
 - [:star: Shields.io](https://shields.io/)
-- [:star: GitSpo](https://gitspo.com/)
 - [Badgen](https://badgen.net/)
 - [Gource](https://gource.io/)
 - [Gitlab](https://gitlab.com/)
@@ -15,10 +14,11 @@
 - [:star: Github Actions](https://github.com/features/actions)
 - [Github CLI](https://cli.github.com/)
 - [Github Sponsors](https://github.com/sponsors)
-- [Github Star History](https://star-history.t9t.io/)
-- [Github Starchart](https://starchart.cc/)
-- [Github StarTrack](https://seladb.github.io/StarTrack-js/)
-- [Github Isometric Contributions](https://github.com/jasonlong/isometric-contributions)
+- [:star: GitSpo](https://gitspo.com/)
+- [Star History](https://star-history.t9t.io/)
+- [Starchart](https://starchart.cc/)
+- [StarTrack](https://seladb.github.io/StarTrack-js/)
+- [Isometric Contributions](https://github.com/jasonlong/isometric-contributions)
 
 ### CI
 - [Travis CI](https://travis-ci.com/)
