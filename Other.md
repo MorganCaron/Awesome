@@ -16,6 +16,7 @@
 - [:wrench: MyPublicWifi](https://mypublicwifi.com/)
 - [:wrench: Namelix](https://namelix.com/)
 - [Malt](https://www.malt.fr/)
+- [AlternativeTo](https://alternativeto.net/)
 
 ---
 
