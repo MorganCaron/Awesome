@@ -8,6 +8,9 @@
 ## SoundBanks
 - [Google Sound Library](https://developers.google.com/assistant/tools/sound-library/)
 
+## Images
+- [:star: :wrench: Remove Background](https://www.remove.bg/)
+
 ## Textures
 - [HDRI Haven](https://hdrihaven.com/hdris/)
 - [Texture Haven](https://texturehaven.com/textures/)
