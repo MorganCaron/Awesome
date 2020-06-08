@@ -12,6 +12,7 @@
 
 #### OpenGL
 - [:star: Learn OpenGL](https://learnopengl.com/)
+- [OpenGL Wikibooks](https://en.wikibooks.org/wiki/OpenGL_Programming)
 
 #### Shaders
 - [Intro to Mesh Shaders](https://www.geeks3d.com/20200519/introduction-to-mesh-shaders-opengl-and-vulkan/)
