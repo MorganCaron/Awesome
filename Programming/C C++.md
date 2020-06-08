@@ -6,6 +6,9 @@
 - [:star: Godbolt Compiler Explorer](https://godbolt.org/z/37PJWK)
 - [Coliru](http://coliru.stacked-crooked.com/)
 
+### Libraries
+- [WinLibs: GCC & MinGW-w64 for Windows](http://winlibs.com/)
+
 ### C
 - [C Internals](http://www.avabodh.com/cin/cin.html)
 
