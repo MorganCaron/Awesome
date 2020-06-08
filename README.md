@@ -16,7 +16,7 @@
 	- [Algorithms](Programming/Algorithms.md)
 	- [Artificial Intelligence](Programming/Artificial%20Intelligence.md)
 	- [Utils](Programming/Utils.md)
-	- [C++](Programming/C++.md)
+	- [C C++](Programming/C%20C++.md)
 	- [Web](Programming/Web/index.md)
 - **[Hack](Hack.md)**
 - **[Hardware](Hardware.md)**

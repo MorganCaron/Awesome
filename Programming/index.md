@@ -16,6 +16,9 @@
 - [:star: Build your own X](https://github.com/danistefanovic/build-your-own-x)
 - [:book: Books GoalKicker](https://books.goalkicker.com/)
 
+## Concepts
+- [RAII](https://fr.wikipedia.org/wiki/Resource_acquisition_is_initialization)
+
 ## Specializations
 - [Git](Git.md)
 - [IDE](IDE.md)
@@ -24,7 +27,7 @@
 - [API](API.md)
 - [Artificial Intelligence](Artificial%20Intelligence.md)
 - [Utils](Utils.md)
-- [C++](C++.md)
+- [C C++](C%20C++.md)
 - [Web](Web/index.md)
 
 ---
