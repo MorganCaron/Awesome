@@ -10,6 +10,12 @@
 - [:wrench: CodeSandbox.io](https://codesandbox.io/)
 - [:wrench: ngrok](https://ngrok.com/)
 
+### Web Hosting
+
+#### Free
+- [:star: Github Pages (front-end only)](https://pages.github.com/)
+- [OVH: 10Mo](https://www.ovh.com/fr/domaines/offre_hebergement_start10m.xml)
+
 ### Specializations
 - [Front-end](Front-end.md)
 - [Back-end](Back-end.md)
