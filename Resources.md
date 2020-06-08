@@ -11,14 +11,6 @@
 ## Images
 - [:star: :wrench: Remove Background](https://www.remove.bg/)
 
-## Textures
-- [HDRI Haven](https://hdrihaven.com/hdris/)
-- [Texture Haven](https://texturehaven.com/textures/)
-
-## Models
-- [:star: MakeHuman](http://www.makehumancommunity.org/)
-- [RenderPeople Free 3D Human Models](https://renderpeople.com/free-3d-people/)
-
 ## Drivers
 - [TLD](https://www.touslesdrivers.com/index.php?v_page=29)
 

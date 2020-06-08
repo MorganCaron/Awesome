@@ -8,6 +8,7 @@
 [![License](https://img.shields.io/github/license/MorganCaron/Awesome?style=for-the-badge)](https://github.com/MorganCaron/Awesome/blob/master/LICENSE)
 
 ## Contents
+- **[3D Modelling](3D%20Modelling/index.md)**
 - **[Maths](Maths/index.md)**
 - **[Programming](Programming/index.md)**
 	- [Git](Programming/Git.md)
