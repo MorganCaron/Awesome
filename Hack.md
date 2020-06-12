@@ -3,6 +3,7 @@
 [![Back to Parent Page](https://img.shields.io/badge/-Back_to_Parent_Page-blue?style=for-the-badge)](README.md)
 
 ## General
+- [:star: :book: Chiffrer.info](https://chiffrer.info/)
 - [:star: :video_game: Hack This](https://www.hackthis.co.uk/)
 - [:video_game: NewbieContest](https://www.newbiecontest.org/)
 - [Root Me](https://www.root-me.org/)
