@@ -35,6 +35,7 @@
 - [:star: :book: The 30 CSS Selectors you must memorize](https://code.tutsplus.com/fr/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 - [JavaScript.info - The Modern JavaScript Tutorial](https://javascript.info/)
 - [:wrench: Unjquerify](https://www.unjquerify.com/)
+- [De jQuery à VanillaJs](https://putaindecode.io/articles/de-jquery-a-vanillajs/)
 - [Interneting is Hard](https://www.internetingishard.com/)
 
 ### Flexbox
