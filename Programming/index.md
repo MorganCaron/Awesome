@@ -18,6 +18,8 @@
 
 ## Concepts
 - [RAII](https://fr.wikipedia.org/wiki/Resource_acquisition_is_initialization)
+- [Bloatware](https://fr.wikipedia.org/wiki/Bloatware)
+- [Principe de moindre surprise](https://fr.wikipedia.org/wiki/Principe_de_moindre_surprise)
 
 ## Specializations
 - [Git](Git.md)

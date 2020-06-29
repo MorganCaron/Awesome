@@ -24,6 +24,9 @@
 - [ProtonVPN](https://protonvpn.com/)
 - [Hide.me VPN](https://hide.me/)
 
+## Cognitive Bias
+- [Effet Dunning-Kruger](https://fr.wikipedia.org/wiki/Effet_Dunning-Kruger)
+
 ---
 
 ### Legend
