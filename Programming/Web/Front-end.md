@@ -4,7 +4,7 @@
 
 ## Libs / Frameworks
 - [Font Awesome](https://fontawesome.com/)
-- [Icofont](https://icofont.com/)
+- [Icofont](https://icofont.com/icons)
 - [Bootstrap](https://getbootstrap.com/)
 - [Materialize](https://materializecss.com/)
 - [Material UI](https://material-ui.com/)
@@ -29,6 +29,7 @@
 - [ElasticSearch](https://www.elastic.co/fr/)
 - [HTMHell](https://www.htmhell.dev/)
 - [The Vanilla JavaScript Toolkit](https://vanillajstoolkit.com/)
+- [Elevator.js](http://tholman.com/elevator.js/)
 
 ## Tutorials
 - [MarkSheet](https://marksheet.io/)
@@ -74,6 +75,8 @@
 - [:wrench: Kamakou - SEO performance audit](http://molokai.be/kamakou)
 - [:wrench: JWT.io](https://jwt.io/)
 - [:star: :wrench: CSSLayout.io](https://csslayout.io/)
+- [:wrench: GetWaves.io](https://getwaves.io/)
+- [:wrench: Loading.io](https://loading.io/)
 
 ---
 
