@@ -20,6 +20,7 @@
 - [ResourceHacker](http://www.angusj.com/resourcehacker/)
 - [ResEdit](http://www.resedit.net/)
 - [Wireshark](https://www.wireshark.org/)
+- [Meltdown & Spectre](https://beta.hackndo.com/meltdown-spectre/)
 
 ## Concepts
 - [Security through obscurity](https://en.wikipedia.org/wiki/Security_through_obscurity)
