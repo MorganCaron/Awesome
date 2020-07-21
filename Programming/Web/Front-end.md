@@ -40,13 +40,18 @@
 - [Interneting is Hard](https://www.internetingishard.com/)
 
 ### Flexbox
+- [:star: :book: MDN Flexbox](https://developer.mozilla.org/fr/docs/Apprendre/CSS/CSS_layout/Flexbox)
 - [:star: :video_game: Flexbox Froggy](https://flexboxfroggy.com/)
 - [:video_game: Flexbox Defense](http://www.flexboxdefense.com/)
-- [:star: :book: A Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [:star: :book: A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [LearnFlexbox](https://learnflexbox.org/)
 
 ### Grid
+- [:star: :book: MDN Grid](https://developer.mozilla.org/fr/docs/Apprendre/CSS/CSS_layout/Grids)
 - [:star: :video_game: CSS Grid Garden](https://cssgridgarden.com/)
 - [:book: Grid Maven](http://grid.malven.co/)
+- [:star: :book: A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [:book: LearnCSSGrid](https://learncssgrid.com/)
 
 ## Utils
 - [:wrench: caniuse.com](https://caniuse.com/)
