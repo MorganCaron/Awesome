@@ -3,6 +3,7 @@
 [![Back to Parent Page](https://img.shields.io/badge/-Back_to_Parent_Page-blue?style=for-the-badge)](README.md)
 
 ## General
+- [:book: Noetics](https://en.wikipedia.org/wiki/Noetics)
 - [:book: Emergence](https://en.wikipedia.org/wiki/Emergence)
 
 ---
