@@ -6,6 +6,7 @@
 
 ### Artificial Neural Network
 - [:star: :book: Double Zoom - Les algorithmes génétiques](http://doublezoom.free.fr/programmation/AG_Principe.php)
+- [Elements of AI](https://course.elementsofai.com/)
 - [:star: LUIS - Microsoft Language Understanding](https://www.luis.ai/)
 
 ### Artificial Consciousness
