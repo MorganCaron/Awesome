@@ -7,8 +7,11 @@
 - [Théorie des Collisions](https://jeux.developpez.com/tutoriels/theorie-des-collisions/)
 
 ### Pathfinding
-
 - [RedBlobGames A* tutorial](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
+
+### Language Theory
+- [:book: Formal Language](https://en.wikipedia.org/wiki/Formal_language)
+- [:book: Thompson's construction algorithm](https://en.wikipedia.org/wiki/Thompson's_construction)
 
 ---
 
