@@ -12,6 +12,10 @@
 ## Business
 - [:book: Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas)
 
+## Social Optimizations
+- [:star: No Hello](https://www.nohello.com/)
+- [:star: The XY Problem](http://xyproblem.info/)
+
 ---
 
 ### Legend
