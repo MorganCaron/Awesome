@@ -17,11 +17,13 @@
 - [:book: Books GoalKicker](https://books.goalkicker.com/)
 
 ## Concepts
+- [Turing Machine](https://en.wikipedia.org/wiki/Turing_machine)
 - [RAII](https://fr.wikipedia.org/wiki/Resource_acquisition_is_initialization)
 - [Bloatware](https://fr.wikipedia.org/wiki/Bloatware)
 - [Principe de moindre surprise](https://fr.wikipedia.org/wiki/Principe_de_moindre_surprise)
 - [Parser Combinator](https://en.wikipedia.org/wiki/Parser_combinator)
 - [Synthèse Concaténative](https://en.wikipedia.org/wiki/Concatenative_synthesis)
+- [Compiler-compiler](https://en.wikipedia.org/wiki/Compiler-compiler)
 
 ## Specializations
 - [Git](Git.md)
