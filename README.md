@@ -29,6 +29,7 @@
 	- [Drivers](Resources.md#Drivers)
 - [Licenses](Licenses.md)
 - [Methodology](Methodology.md)
+- [Philosophy](Philosophy.md)
 - [Other](Other.md)
 
 ---
