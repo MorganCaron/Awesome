@@ -8,6 +8,9 @@
 - [:book: Formal Language](https://en.wikipedia.org/wiki/Formal_language)
 - [:book: Thompson's construction algorithm](https://en.wikipedia.org/wiki/Thompson's_construction)
 - [:book: Linguistic relativity](https://en.wikipedia.org/wiki/Linguistic_relativity)
+- [:book: Sign (semiotics)](https://en.wikipedia.org/wiki/Sign_(semiotics))
+- [:book: Semantics](https://en.wikipedia.org/wiki/Semantics)
+- [:book: Semiotics](https://en.wikipedia.org/wiki/Semiotics)
 
 ---
 
