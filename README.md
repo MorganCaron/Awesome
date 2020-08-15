@@ -27,7 +27,8 @@
 	- [Textures](Resources.md#Textures)
 	- [Models](Resources.md#Models)
 	- [Drivers](Resources.md#Drivers)
-- **[Licenses](Licenses.md)**
+- [Licenses](Licenses.md)
+- [Methodology](Methodology.md)
 - [Other](Other.md)
 
 ---
