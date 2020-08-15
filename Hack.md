@@ -26,10 +26,13 @@
 - [Security through obscurity](https://en.wikipedia.org/wiki/Security_through_obscurity)
 - [Open security](https://en.wikipedia.org/wiki/Open_security)
 - [Steganography](https://en.wikipedia.org/wiki/Steganography)
-- [Phishing](https://fr.wikipedia.org/wiki/Hame%C3%A7onnage)
 - [Domain Squatting](https://fr.wikipedia.org/wiki/Cybersquattage)
 - [Zero day](https://en.wikipedia.org/wiki/Zero-day_(computing))
 - [Obfuscation](https://en.wikipedia.org/wiki/Obfuscation_(software))
+
+### Social Hacking
+- [Astroturfing](https://fr.wikipedia.org/wiki/Astroturfing)
+- [Phishing](https://fr.wikipedia.org/wiki/Hame%C3%A7onnage)
 
 ---
 
