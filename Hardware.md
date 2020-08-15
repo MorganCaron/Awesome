@@ -6,6 +6,7 @@
 - [:star: :wrench: Configomatic](https://www.topachat.com/pages/configomatic.php)
 - [Apprendre à monter un ordinateur](https://zestedesavoir.com/tutoriels/613/apprenez-a-monter-votre-ordinateur/)
 - [Time to upgrade your monitor](https://tonsky.me/blog/monitors/)
+- [Screen Size Map](https://www.screensizemap.com/)
 
 ## Repair
 - [:star: :wrench: TestDisk](https://www.cgsecurity.org/wiki/TestDisk_Etape_par_Etape)
