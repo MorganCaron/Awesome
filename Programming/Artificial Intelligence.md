@@ -5,10 +5,11 @@
 ## General
 
 ### Artificial Neural Network
-- [Double Zoom - Les algorithmes génétiques](http://doublezoom.free.fr/programmation/AG_Principe.php)
+- [:star: :book: Double Zoom - Les algorithmes génétiques](http://doublezoom.free.fr/programmation/AG_Principe.php)
+- [:star: LUIS - Microsoft Language Understanding](https://www.luis.ai/)
 
 ### Artificial Consciousness
-- [:movie_camera: Passe-science - Vers la conscience artificielle](https://www.youtube.com/watch?v=ChcYySk_jro)
+- [:star: :movie_camera: Passe-science - Vers la conscience artificielle](https://www.youtube.com/watch?v=ChcYySk_jro)
 
 ---
 
