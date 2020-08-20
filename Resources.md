@@ -11,6 +11,12 @@
 ## Images
 - [:star: :wrench: Remove Background](https://www.remove.bg/)
 
+## Fonts
+- [:star: :wrench: Google Fonts](https://fonts.google.com/)
+- [:star: :wrench: Dafont](https://www.dafont.com/)
+- [:wrench: WhatTheFont](https://www.myfonts.com/WhatTheFont/)
+- [:wrench: WhatFontIs](https://www.whatfontis.com/)
+
 ## Drivers
 - [:wrench: TLD](https://www.touslesdrivers.com/index.php?v_page=29)
 - [:wrench: DriversCloud](https://www.driverscloud.com/fr/demarrer)
