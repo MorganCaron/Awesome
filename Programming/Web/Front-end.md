@@ -53,6 +53,9 @@
 - [:star: :book: A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [:book: LearnCSSGrid](https://learncssgrid.com/)
 
+### WebAssembly
+- [:book: MDN WebAssembly](https://developer.mozilla.org/fr/docs/WebAssembly)
+
 ## Utils
 - [:wrench: caniuse.com](https://caniuse.com/)
 - [:wrench: caniemail.com](https://www.caniemail.com/)
