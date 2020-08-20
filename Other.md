@@ -18,6 +18,8 @@
 - [Malt](https://www.malt.fr/)
 - [AlternativeTo](https://alternativeto.net/)
 - [Photo Mosh](https://photomosh.com/)
+- [:wrench: namae](https://namae.dev/)
+- [:wrench: DownForEveryoneOrJustMe](https://downforeveryoneorjustme.com/)
 
 ## VPN
 - [NordVPN](https://nordvpn.com/)
