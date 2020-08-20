@@ -11,6 +11,10 @@
 - [:wrench: ngrok](https://ngrok.com/)
 - [:star: What is the difference between this & that? (html, css, js)](https://thisthat.dev/)
 
+## Concepts
+- [:book: Moteur JavaScript](https://en.wikipedia.org/wiki/JavaScript_engine)
+- [:book: V8 (Moteur JavaScript](https://en.wikipedia.org/wiki/V8_(JavaScript_engine))
+
 ### Web Hosting
 
 #### Free
