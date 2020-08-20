@@ -12,6 +12,7 @@
 	- [Textures](3D%20Modelling/index.md#Textures)
 	- [Models](3D%20Modelling/index.md#Models)
 - **[Maths](Maths/index.md)**
+	- [Trigonometry](Maths/index.md#Trigonometry)
 - **[Programming](Programming/index.md)**
 	- [Git](Programming/Git.md)
 	- [IDE](Programming/IDE.md)

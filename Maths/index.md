@@ -6,6 +6,9 @@
 - [GeoGebra](https://www.geogebra.org/)
 - [Euclidea](https://www.euclidea.xyz/)
 
+### Trigonometry
+- [:star: :book: Sinus & Cosinus](https://wordsandbuttons.online/sine_and_cosine.html)
+
 ---
 
 ### Legend
