@@ -29,6 +29,13 @@
 ## Cognitive Bias
 - [Effet Dunning-Kruger](https://fr.wikipedia.org/wiki/Effet_Dunning-Kruger)
 
+## Office
+- [:star: :wrench: Google Docs](https://www.google.fr/intl/fr/docs/about/)
+- [:star: :wrench: Google Sheets](https://www.google.fr/intl/fr/sheets/about/)
+- [:wrench: Google Slides](https://www.google.fr/intl/fr/slides/about/)
+- [:wrench: Google Forms](https://www.google.fr/intl/fr/forms/about/)
+- [:star: :wrench: Slides.com](https://slides.com/)
+
 ---
 
 ### Legend
