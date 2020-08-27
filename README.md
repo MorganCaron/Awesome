@@ -38,10 +38,10 @@
 	- [Business](Methodology.md#Business)
 	- [Social Optimizations](Methodology.md#Social%20Optimizations)
 - [Philosophy](Philosophy.md)
+	- [Cognitive Bias](Philosophy.md#Cognitive%20Bias)
 - [Physics](Physics.md)
 - [Other](Other.md)
 	- [VPN](Other.md#VPN)
-	- [Cognitive Bias](Other.md#Cognitive%20Bias)
 	- [Office](Other.md#Office)
 	- [Job Search](Other.md#Job%20Search)
 

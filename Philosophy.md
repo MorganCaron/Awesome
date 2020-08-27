@@ -6,6 +6,10 @@
 - [:book: Noetics](https://en.wikipedia.org/wiki/Noetics)
 - [:book: Emergence](https://en.wikipedia.org/wiki/Emergence)
 
+## Cognitive Bias
+- [Effet Dunning-Kruger](https://fr.wikipedia.org/wiki/Effet_Dunning-Kruger)
+- [Cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance)
+
 ---
 
 ### Legend
