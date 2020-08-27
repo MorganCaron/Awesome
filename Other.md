@@ -36,6 +36,14 @@
 - [:wrench: Google Forms](https://www.google.fr/intl/fr/forms/about/)
 - [:star: :wrench: Slides.com](https://slides.com/)
 
+## Job Search
+- [:star: LinkedIn](https://www.linkedin.com/)
+- [LesJeudis](https://www.lesjeudis.com/)
+- [Monster](https://www.monster.fr/)
+- [Recrut-Info](https://www.recrut-info.com/opportunites/)
+- [ChooseYourBoss](https://www.chooseyourboss.com/)
+- [Apec](https://www.apec.fr/)
+
 ---
 
 ### Legend
