@@ -20,6 +20,7 @@
 - [Photo Mosh](https://photomosh.com/)
 - [:wrench: namae](https://namae.dev/)
 - [:wrench: DownForEveryoneOrJustMe](https://downforeveryoneorjustme.com/)
+- [Comment apprendre la lecture rapide en 10 mins](https://nicolasberetti.com/ressources/comment-apprendre-la-lecture-rapide-en-10-min/)
 
 ## VPN
 - [NordVPN](https://nordvpn.com/)
