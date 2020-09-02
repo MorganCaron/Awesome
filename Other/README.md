@@ -12,6 +12,7 @@
 - [No More Ransom!](https://www.nomoreransom.org/fr/index.html)
 - [Google Remote Desktop](https://remotedesktop.google.com/)
 - [DeepL](https://www.deepl.com/translator)
+- [DicoZ](https://www.dicoz.fr/)
 - [:wrench: Shutdown-IT](https://www.logitheque.com/logiciels/windows/utilitaires/systeme_arret_demarrage/telecharger/shutdown_it_19664.htm)
 - [:wrench: MyPublicWifi](https://mypublicwifi.com/)
 - [:wrench: Namelix](https://namelix.com/)
