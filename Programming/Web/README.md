@@ -1,6 +1,6 @@
-# [Main Menu](../../README.md) / [Programming](../index.md) / Web [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# [Main Menu](../../README.md) / [Programming](../README.md) / Web [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-[![Back to Parent Page](https://img.shields.io/badge/-Back_to_Parent_Page-blue?style=for-the-badge)](../index.md)
+[![Back to Parent Page](https://img.shields.io/badge/-Back_to_Parent_Page-blue?style=for-the-badge)](../README.md)
 
 ## General
 - [:star: :movie_camera: Grafikart](https://www.youtube.com/user/grafikarttv)
@@ -22,8 +22,8 @@
 - [OVH: 10Mo](https://www.ovh.com/fr/domaines/offre_hebergement_start10m.xml)
 
 ### Specializations
-- [Front-end](Front-end.md)
-- [Back-end](Back-end.md)
+- [Front-end](Front-end/README.md)
+- [Back-end](Back-end/README.md)
 
 ---
 

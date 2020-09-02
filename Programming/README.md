@@ -37,15 +37,15 @@
 - [TryItOnline Compiler](https://tio.run/)
 
 ## Specializations
-- [Git](Git.md)
-- [IDE](IDE.md)
-- [Build Tools](Build%20Tools.md)
-- [Algorithms](Algorithms.md)
-- [API](API.md)
-- [Artificial Intelligence](Artificial%20Intelligence.md)
-- [Utils](Utils.md)
-- [C C++](C%20C++.md)
-- [Web](Web/index.md)
+- [Algorithms](Algorithms/README.md)
+- [API](API/README.md)
+- [Artificial Intelligence](Artificial%20Intelligence/README.md)
+- [Build Tools](Build%20Tools/README.md)
+- [C C++](C%20C++/README.md)
+- [Git](Git/README.md)
+- [IDE](IDE/README.md)
+- [Utils](Utils/README.md)
+- [Web](Web/README.md)
 
 ---
 

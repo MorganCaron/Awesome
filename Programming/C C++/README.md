@@ -1,6 +1,6 @@
-# [Main Menu](../README.md) / [Programming](index.md) / C C++ [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# [Main Menu](../../README.md) / [Programming](../README.md) / C C++ [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-[![Back to Parent Page](https://img.shields.io/badge/-Back_to_Parent_Page-blue?style=for-the-badge)](index.md)
+[![Back to Parent Page](https://img.shields.io/badge/-Back_to_Parent_Page-blue?style=for-the-badge)](../README.md)
 
 ## General
 - [:star: Godbolt Compiler Explorer](https://godbolt.org/z/37PJWK)

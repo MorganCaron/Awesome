@@ -8,42 +8,42 @@
 [![License](https://img.shields.io/github/license/MorganCaron/Awesome?style=for-the-badge)](https://github.com/MorganCaron/Awesome/blob/master/LICENSE)
 
 ## Contents
-- **[3D Modelling](3D%20Modelling/index.md)**
-	- [Textures](3D%20Modelling/index.md#Textures)
-	- [Models](3D%20Modelling/index.md#Models)
-- **[Maths](Maths/index.md)**
-	- [Trigonometry](Maths/index.md#Trigonometry)
-- **[Programming](Programming/index.md)**
-	- [Git](Programming/Git.md)
-	- [IDE](Programming/IDE.md)
-	- [Build Tools](Programming/Build%20Tools.md)
-	- [Algorithms](Programming/Algorithms.md)
-	- [API](Programming/API.md)
-	- [Artificial Intelligence](Programming/Artificial%20Intelligence.md)
-	- [Utils](Programming/Utils.md)
-	- [C C++](Programming/C%20C++.md)
-	- [Web](Programming/Web/index.md)
-- **[Hack](Hack.md)**
-- **[Hardware](Hardware.md)**
-	- [Repair](Hardware.md#Repair)
-- **[Resources](Resources.md)**
-	- [Icons](Resources.md#Icons)
-	- [SoundBanks](Resources.md#SoundBanks)
-	- [Images](Resources.md#Images)
-	- [Fonts](Resources.md#Fonts)
-	- [Drivers](Resources.md#Drivers)
-- [Language](Language.md)
-- [Licenses](Licenses.md)
-- [Methodology](Methodology.md)
-	- [Business](Methodology.md#Business)
-	- [Social Optimizations](Methodology.md#Social%20Optimizations)
-- [Philosophy](Philosophy.md)
-	- [Cognitive Bias](Philosophy.md#Cognitive%20Bias)
-- [Physics](Physics.md)
-- [Other](Other.md)
-	- [VPN](Other.md#VPN)
-	- [Office](Other.md#Office)
-	- [Job Search](Other.md#Job%20Search)
+- **[3D Modelling](3D%20Modelling/README.md)**
+	- [Textures](3D%20Modelling/README.md#Textures)
+	- [Models](3D%20Modelling/README.md#Models)
+- **[Hack](Hack/README.md)**
+- **[Hardware](Hardware/README.md)**
+	- [Repair](Hardware/README.md#Repair)
+- **[Language](Language/README.md)**
+- **[Licenses](Licenses/README.md)**
+- **[Maths](Maths/README.md)**
+	- [Trigonometry](Maths/README.md#Trigonometry)
+- **[Methodology](Methodology/README.md)**
+	- [Business](Methodology/README.md#Business)
+	- [Social Optimizations](Methodology/README.md#Social%20Optimizations)
+- **[Philosophy](Philosophy/README.md)**
+	- [Cognitive Bias](Philosophy/README.md#Cognitive%20Bias)
+- **[Physics](Physics/README.md)**
+- **[Programming](Programming/README.md)**
+	- [Algorithms](Programming/Algorithms/README.md)
+	- [API](Programming/API/README.md)
+	- [Artificial Intelligence](Programming/Artificial%20Intelligence/README.md)
+	- [Build Tools](Programming/Build%20Tools/README.md)
+	- [C C++](Programming/C%20C++/README.md)
+	- [Git](Programming/Git/README.md)
+	- [IDE](Programming/IDE/README.md)
+	- [Utils](Programming/Utils/README.md)
+	- [Web](Programming/Web/README.md)
+- **[Resources](Resources/README.md)**
+	- [Icons](Resources/README.md#Icons)
+	- [SoundBanks](Resources/README.md#SoundBanks)
+	- [Images](Resources/README.md#Images)
+	- [Fonts](Resources/README.md#Fonts)
+	- [Drivers](Resources/README.md#Drivers)
+- **[Other](Other/README.md)**
+	- [VPN](Other/README.md#VPN)
+	- [Office](Other/README.md#Office)
+	- [Job Search](Other/README.md#Job%20Search)
 
 ---
 

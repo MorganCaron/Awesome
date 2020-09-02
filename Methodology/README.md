@@ -1,6 +1,6 @@
-# [Main Menu](README.md) / Methodology [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# [Main Menu](../README.md) / Methodology [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-[![Back to Parent Page](https://img.shields.io/badge/-Back_to_Parent_Page-blue?style=for-the-badge)](README.md)
+[![Back to Parent Page](https://img.shields.io/badge/-Back_to_Parent_Page-blue?style=for-the-badge)](../README.md)
 
 ## General
 - [:book: Todo-list](https://fr.wikipedia.org/wiki/Todo_list)
