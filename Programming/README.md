@@ -17,6 +17,7 @@
 - [:book: Books GoalKicker](https://books.goalkicker.com/)
 - [Frameworkless Movement](https://www.frameworklessmovement.org/)
 - [:star: :book: Roadmap](https://roadmap.sh/)
+- [:wrench: Inno Setup](https://jrsoftware.org/isinfo.php)
 
 ## Concepts
 - [:book: Turing Machine](https://en.wikipedia.org/wiki/Turing_machine)
