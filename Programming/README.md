@@ -27,6 +27,7 @@
 - [:book: Principe de moindre surprise](https://fr.wikipedia.org/wiki/Principe_de_moindre_surprise)
 - [:book: Parser Combinator](https://en.wikipedia.org/wiki/Parser_combinator)
 - [:book: Synthèse Concaténative](https://en.wikipedia.org/wiki/Concatenative_synthesis)
+- [:book: Side effect](https://en.wikipedia.org/wiki/Side_effect_(computer_science))
 
 ### Protocols
 - [:book: RFC](https://fr.wikipedia.org/wiki/Request_for_comments)
