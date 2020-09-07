@@ -10,9 +10,9 @@
 - [GhostProject](https://ghostproject.fr/)
 - [:star: Chiffrer.info](https://chiffrer.info/)
 - [No More Ransom!](https://www.nomoreransom.org/fr/index.html)
-- [Google Remote Desktop](https://remotedesktop.google.com/)
-- [DeepL](https://www.deepl.com/translator)
-- [DicoZ](https://www.dicoz.fr/)
+- [:wrench: Google Remote Desktop](https://remotedesktop.google.com/)
+- [:wrench: DeepL](https://www.deepl.com/translator)
+- [:wrench: DicoZ](https://www.dicoz.fr/)
 - [:wrench: Shutdown-IT](https://www.logitheque.com/logiciels/windows/utilitaires/systeme_arret_demarrage/telecharger/shutdown_it_19664.htm)
 - [:wrench: MyPublicWifi](https://mypublicwifi.com/)
 - [:wrench: Namelix](https://namelix.com/)
@@ -21,7 +21,8 @@
 - [Photo Mosh](https://photomosh.com/)
 - [:wrench: namae](https://namae.dev/)
 - [:wrench: DownForEveryoneOrJustMe](https://downforeveryoneorjustme.com/)
-- [Comment apprendre la lecture rapide en 10 mins](https://nicolasberetti.com/ressources/comment-apprendre-la-lecture-rapide-en-10-min/)
+- [:book: Comment apprendre la lecture rapide en 10 mins](https://nicolasberetti.com/ressources/comment-apprendre-la-lecture-rapide-en-10-min/)
+- [:wrench: Bitwarden](https://bitwarden.com/)
 
 ## VPN
 - [NordVPN](https://nordvpn.com/)
