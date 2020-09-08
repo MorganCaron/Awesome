@@ -8,6 +8,7 @@
 - [Badgen](https://badgen.net/)
 - [Gource](https://gource.io/)
 - [Gitlab](https://gitlab.com/)
+- [Bitbucket](https://bitbucket.org/product/)
 
 ### Github
 - [:star: Github](https://github.com/)
