@@ -27,6 +27,7 @@
 - [:star: C++ moderne: Les accents](https://sirlynixvanfrietjes.be/2020/01/14/cpp-moderne-les-accents/)
 - [:star: Zeste de savoir: Tutoriel C++](https://zestedesavoir.com/tutoriels/822/la-programmation-en-c-moderne/)
 - [:star: Almost Always Auto style](http://cginternals.github.io/guidelines/articles/almost-always-auto/)
+- [Le problème d'inclusion circulaire](https://winjerome.developpez.com/langage-cplusplus/faq-erreurs-courantes/?id=inclusion-circulaire-forward-declaration)
 
 ---
 
