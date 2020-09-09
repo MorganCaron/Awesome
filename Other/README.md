@@ -23,6 +23,7 @@
 - [:wrench: DownForEveryoneOrJustMe](https://downforeveryoneorjustme.com/)
 - [:book: Comment apprendre la lecture rapide en 10 mins](https://nicolasberetti.com/ressources/comment-apprendre-la-lecture-rapide-en-10-min/)
 - [:wrench: Bitwarden](https://bitwarden.com/)
+- [:star: WebpageToPDF](https://webpagetopdf.com/)
 
 ## VPN
 - [NordVPN](https://nordvpn.com/)
