@@ -4,6 +4,7 @@
 
 ## General
 - [:star: Godbolt Compiler Explorer](https://godbolt.org/z/37PJWK)
+- [cpp.sh](http://cpp.sh)
 - [Coliru](http://coliru.stacked-crooked.com/)
 
 ### Libraries
