@@ -41,6 +41,7 @@
 	- [Fonts](Resources/README.md#Fonts)
 	- [Drivers](Resources/README.md#Drivers)
 - **[Other](Other/README.md)**
+	- [Remote Desktop](Other/README.md#Remote%20Desktop)
 	- [VPN](Other/README.md#VPN)
 	- [Office](Other/README.md#Office)
 	- [Job Search](Other/README.md#Job%20Search)
