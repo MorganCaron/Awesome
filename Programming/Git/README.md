@@ -13,6 +13,8 @@
 ### Github
 - [:star: Github](https://github.com/)
 - [:star: Github Actions](https://github.com/features/actions)
+- [:star: Github Pages](https://pages.github.com)
+- [Github Pages Themes](https://pages.github.com/themes/)
 - [Github CLI](https://cli.github.com/)
 - [Github Sponsors](https://github.com/sponsors)
 - [:star: GitSpo](https://gitspo.com/)
