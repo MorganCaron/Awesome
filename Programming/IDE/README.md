@@ -12,6 +12,9 @@
 #### VS Code
 - [:star: :wrench: Draw.io extension for VS Code](https://visualstudio.developpez.com/actu/302814/Draw-io-integre-a-VS-Code-creez-des-diagrammes-directement-dans-l-EDI-avec-cette-extension-open-source/)
 
+#### VIM
+![VIM Cheatsheet](vim-cheatsheet.png)
+
 ---
 
 ### Legend
