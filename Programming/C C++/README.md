@@ -29,6 +29,7 @@
 - [:star: Zeste de savoir: Tutoriel C++](https://zestedesavoir.com/tutoriels/822/la-programmation-en-c-moderne/)
 - [:star: Almost Always Auto style](http://cginternals.github.io/guidelines/articles/almost-always-auto/)
 - [Le problème d'inclusion circulaire](https://winjerome.developpez.com/langage-cplusplus/faq-erreurs-courantes/?id=inclusion-circulaire-forward-declaration)
+- [:star: Pourquoi le tutoriel C++ d'OpenClassrooms est mauvais](https://informaticienzero.github.io/c++-avec-openclassrooms-ou-comment-perdre-son-temps/)
 
 ---
 
