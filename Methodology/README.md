@@ -17,6 +17,7 @@
 - [:star: Don't ask to ask](https://dontasktoask.com)
 - [:star: How to ask](https://stackoverflow.com/help/how-to-ask)
 - [:star: The XY Problem](http://xyproblem.info/)
+![How to ask](how-to-ask.png)
 
 ---
 
