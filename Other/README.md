@@ -26,7 +26,7 @@
 
 ## Remote Desktop
 - [:star: :wrench: Google Remote Desktop](https://remotedesktop.google.com/)
-- [:star: :wrench: AnyDesk](https://anydesk.com/)
+- [:wrench: AnyDesk](https://anydesk.com/)
 - [:wrench: Teamviewer](https://www.teamviewer.com/)
 
 ## VPN
