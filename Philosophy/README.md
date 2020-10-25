@@ -6,6 +6,7 @@
 - [:book: Noetics](https://en.wikipedia.org/wiki/Noetics)
 - [:book: Emergence](https://en.wikipedia.org/wiki/Emergence)
 - [:book: Theory of everything](https://en.wikipedia.org/wiki/Theory_of_everything_(philosophy))
+- [:book: Inversion de la charge de la preuve](https://fr.wikipedia.org/wiki/Inversion_de_la_charge_de_la_preuve_(rh%C3%A9torique))
 
 ## Cognitive Bias
 - [Effet Dunning-Kruger](https://fr.wikipedia.org/wiki/Effet_Dunning-Kruger)
