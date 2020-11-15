@@ -19,6 +19,10 @@
 - [:star: :book: Roadmap](https://roadmap.sh/)
 - [:wrench: Inno Setup](https://jrsoftware.org/isinfo.php)
 
+## Challenges
+- [:star: :video_game: CodinGame](https://www.codingame.com)
+- [:star: :video_game: CodeWars](https://www.codewars.com/)
+
 ## Concepts
 - [:book: Turing Machine](https://en.wikipedia.org/wiki/Turing_machine)
 - [:book: Garbage Collector](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science))
