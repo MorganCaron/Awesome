@@ -6,6 +6,7 @@
 - [:star: Godbolt Compiler Explorer](https://godbolt.org/z/37PJWK)
 - [cpp.sh](http://cpp.sh)
 - [Coliru](http://coliru.stacked-crooked.com/)
+- [:book: Header-only](https://en.wikipedia.org/wiki/Header-only)
 
 ### Libraries
 - [WinLibs: GCC & MinGW-w64 for Windows](http://winlibs.com/)
