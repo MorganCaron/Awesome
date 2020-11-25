@@ -26,6 +26,7 @@
 ### CI
 - [Travis CI](https://travis-ci.com/)
 - [Circle CI](https://circleci.com/)
+- [Jenkins](https://www.jenkins.io)
 
 ---
 
