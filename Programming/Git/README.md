@@ -9,6 +9,7 @@
 - [Gource](https://gource.io/)
 - [Gitlab](https://gitlab.com/)
 - [Bitbucket](https://bitbucket.org/product/)
+- [:star: :book: Oh Shit Git](https://ohshitgit.com/fr)
 
 ### Github
 - [:star: Github](https://github.com/)
