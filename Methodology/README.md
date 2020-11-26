@@ -15,6 +15,7 @@
 ## Social Optimizations
 - [:star: No Hello](https://www.nohello.com/)
 - [:star: Don't ask to ask](https://dontasktoask.com)
+- [:star: Don't ask to ask (FR)](https://dontasktoask.com/fr/)
 - [:star: How to ask](https://stackoverflow.com/help/how-to-ask)
 - [:star: The XY Problem](http://xyproblem.info/)
 ![How to ask](how-to-ask.png)
