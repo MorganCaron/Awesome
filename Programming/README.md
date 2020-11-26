@@ -38,7 +38,7 @@
 - [:book: List of RFCs](https://en.wikipedia.org/wiki/List_of_RFCs)
 
 ### Compilers
-- [:star: :video: Interpreters and Compilers](https://www.youtube.com/watch?v=_C5AHaS1mOA)
+- [:star: :movie_camera: Interpreters and Compilers](https://www.youtube.com/watch?v=_C5AHaS1mOA)
 - [:book: Compiler-compiler](https://en.wikipedia.org/wiki/Compiler-compiler)
 - [TryItOnline Compiler](https://tio.run/)
 
