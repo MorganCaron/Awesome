@@ -9,8 +9,9 @@
 - [:book: Inversion de la charge de la preuve](https://fr.wikipedia.org/wiki/Inversion_de_la_charge_de_la_preuve_(rh%C3%A9torique))
 
 ## Cognitive Bias
-- [Effet Dunning-Kruger](https://fr.wikipedia.org/wiki/Effet_Dunning-Kruger)
-- [Cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance)
+- [:book: Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
+- [:book: Cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance)
+- [:book: Barnum effect](https://en.wikipedia.org/wiki/Barnum_effect)
 
 ---
 
