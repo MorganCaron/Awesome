@@ -19,6 +19,7 @@
 - [:star: How to ask](https://stackoverflow.com/help/how-to-ask)
 - [:star: The XY Problem](http://xyproblem.info/)
 - [:star: :book: Bus factor](https://en.wikipedia.org/wiki/Bus_factor)
+- [:star: :book: Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
 ![How to ask](how-to-ask.png)
 ---
 
