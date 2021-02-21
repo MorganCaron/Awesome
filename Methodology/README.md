@@ -18,8 +18,8 @@
 - [:star: Don't ask to ask (FR)](https://dontasktoask.com/fr/)
 - [:star: How to ask](https://stackoverflow.com/help/how-to-ask)
 - [:star: The XY Problem](http://xyproblem.info/)
+- [:star: :book: Bus factor](https://en.wikipedia.org/wiki/Bus_factor)
 ![How to ask](how-to-ask.png)
-
 ---
 
 ### Legend
