@@ -6,6 +6,12 @@
 - [Poisson Disk Sampling](http://devmag.org.za/2009/05/03/poisson-disk-sampling/)
 - [Théorie des Collisions](https://jeux.developpez.com/tutoriels/theorie-des-collisions/)
 
+### Noise
+- [:book: Simplex noise](https://en.wikipedia.org/wiki/Simplex_noise)
+- [:book: Perlin noise](https://en.wikipedia.org/wiki/Perlin_noise)
+- [:book: Worley noise](https://en.wikipedia.org/wiki/Worley_noise)
+- [Perlin noise - Implementation](https://mrl.cs.nyu.edu/~perlin/noise/)
+
 ### Pathfinding
 - [RedBlobGames A* tutorial](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
 
