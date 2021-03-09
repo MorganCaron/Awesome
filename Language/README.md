@@ -5,6 +5,7 @@
 ## General
 
 ### Language Theory
+- [:book: Hiérarchie de Chomsky](https://fr.wikipedia.org/wiki/Hi%C3%A9rarchie_de_Chomsky)
 - [:book: Formal Language](https://en.wikipedia.org/wiki/Formal_language)
 - [:book: Thompson's construction algorithm](https://en.wikipedia.org/wiki/Thompson's_construction)
 - [:book: Linguistic relativity](https://en.wikipedia.org/wiki/Linguistic_relativity)
