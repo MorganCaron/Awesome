@@ -3,7 +3,6 @@
 [![Back to Parent Page](https://img.shields.io/badge/-Back_to_Parent_Page-blue?style=for-the-badge)](../README.md)
 
 ## General
-- [:star: :video_game: Coding game](https://www.codingame.com/start)
 - [:video_game: Leek Wars](https://leekwars.com/)
 - [:video_game: Screeps](https://screeps.com/)
 - [:star: Mozilla Web Documentations](https://developer.mozilla.org/fr/)
@@ -20,7 +19,7 @@
 - [:wrench: Inno Setup](https://jrsoftware.org/isinfo.php)
 
 ## Challenges
-- [:star: :video_game: CodinGame](https://www.codingame.com)
+- [:star: :video_game: CodinGame](https://www.codingame.com/start)
 - [:star: :video_game: CodeWars](https://www.codewars.com/)
 
 ## Concepts
@@ -32,6 +31,7 @@
 - [:book: Parser Combinator](https://en.wikipedia.org/wiki/Parser_combinator)
 - [:book: Synthèse Concaténative](https://en.wikipedia.org/wiki/Concatenative_synthesis)
 - [:book: Side effect](https://en.wikipedia.org/wiki/Side_effect_(computer_science))
+- [:book: Self-documenting code](https://en.wikipedia.org/wiki/Self-documenting_code)
 
 ### Protocols
 - [:book: RFC](https://fr.wikipedia.org/wiki/Request_for_comments)
