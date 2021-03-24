@@ -30,6 +30,9 @@
 - [HTMHell](https://www.htmhell.dev/)
 - [The Vanilla JavaScript Toolkit](https://vanillajstoolkit.com/)
 - [Elevator.js](http://tholman.com/elevator.js/)
+- [Webpack](https://webpack.js.org)
+- [:star: Vitejs](https://vitejs.dev)
+
 
 ## Tutorials
 - [MarkSheet](https://marksheet.io/)
