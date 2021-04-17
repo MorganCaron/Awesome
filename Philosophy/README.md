@@ -12,6 +12,7 @@
 - [:book: Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
 - [:book: Cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance)
 - [:book: Barnum effect](https://en.wikipedia.org/wiki/Barnum_effect)
+- [:book: Survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias)
 
 ---
 
