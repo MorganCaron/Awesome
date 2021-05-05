@@ -11,6 +11,7 @@
 ### Libraries
 - [WinLibs: GCC & MinGW-w64 for Windows](http://winlibs.com/)
 - [Assimp](https://www.assimp.org/)
+- [nlohmann/json](https://github.com/nlohmann/json)
 
 ### C
 - [C Internals](http://www.avabodh.com/cin/cin.html)
