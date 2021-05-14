@@ -43,6 +43,7 @@
 - [:book: Compiler-compiler](https://en.wikipedia.org/wiki/Compiler-compiler)
 - [TryItOnline Compiler](https://tio.run/)
 - [Créer son propre langage de programmation de A à Z](https://totodu.net/Compilation/Compilation)
+- [:star: :movie_camera: Comparing C to machine language](https://www.youtube.com/watch?v=yOyaJXpAYZQ)
 
 ## Specializations
 - [Algorithms](Algorithms/README.md)
