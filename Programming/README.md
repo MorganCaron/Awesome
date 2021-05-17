@@ -32,6 +32,7 @@
 - [:book: Synthèse Concaténative](https://en.wikipedia.org/wiki/Concatenative_synthesis)
 - [:book: Side effect](https://en.wikipedia.org/wiki/Side_effect_(computer_science))
 - [:book: Self-documenting code](https://en.wikipedia.org/wiki/Self-documenting_code)
+- [:star: Notation Big-O](https://www.jesuisundev.com/comprendre-la-notation-big-o-en-7-minutes/)
 
 ### Protocols
 - [:book: RFC](https://fr.wikipedia.org/wiki/Request_for_comments)
