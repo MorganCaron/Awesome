@@ -12,6 +12,7 @@
 ## Repair
 - [:star: :wrench: TestDisk](https://www.cgsecurity.org/wiki/TestDisk_Etape_par_Etape)
 - [:wrench: System Rescue CD](https://www.system-rescue-cd.org/)
+- [:wrench: Recuva](https://www.ccleaner.com/recuva)
 
 ---
 
