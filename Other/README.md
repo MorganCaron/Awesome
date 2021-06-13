@@ -25,6 +25,7 @@
 - [:star: WebpageToPDF](https://webpagetopdf.com/)
 - [:wrench: Gitmoji](https://gitmoji.carloscuesta.me)
 - [:wrench: Let's Enhance](https://letsenhance.io)
+- [:wrench: Icaros](https://www.majorgeeks.com/files/details/icaros.html)
 
 ## Remote Desktop
 - [:star: :wrench: Google Remote Desktop](https://remotedesktop.google.com/)
