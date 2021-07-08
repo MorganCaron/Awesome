@@ -11,6 +11,7 @@
 ## Textures
 - [HDRI Haven](https://hdrihaven.com/hdris/)
 - [Texture Haven](https://texturehaven.com/textures/)
+- [Poly Haven](https://polyhaven.com/textures)
 
 ## Models
 - [:star: MakeHuman](http://www.makehumancommunity.org/)
