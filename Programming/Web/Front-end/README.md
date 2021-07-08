@@ -4,6 +4,7 @@
 
 ## Libs / Frameworks
 - [Font Awesome](https://fontawesome.com/)
+- [Line Awesome](https://icons8.com/line-awesome)
 - [Icofont](https://icofont.com/icons)
 - [Bootstrap](https://getbootstrap.com/)
 - [Materialize](https://materializecss.com/)
