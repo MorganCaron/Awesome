@@ -13,9 +13,12 @@
 - [Perlin noise - Implementation](https://mrl.cs.nyu.edu/~perlin/noise/)
 
 ### Pathfinding
-- [:star: A* Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
-- [:star: Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra's_algorithm)
+- [:star: :book: A* Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
+- [:star: :book: Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra's_algorithm)
 - [RedBlobGames A* tutorial](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
+
+### Cryptography
+- [:book: Proof of work](https://en.wikipedia.org/wiki/Proof_of_work)
 
 ---
 
