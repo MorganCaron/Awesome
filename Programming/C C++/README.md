@@ -38,6 +38,7 @@
 - [:star: The differences between "using" and "typedef" in modern C++](https://www.internalpointers.com/post/differences-between-using-and-typedef-modern-c)
 - [:star: Le type std::variant](https://h-deb.clg.qc.ca/Sujets/Divers--cplusplus/variant.html)
 - [LearnCpp.com](https://www.learncpp.com)
+- [:star: :book: [Named] Return Value Optimization (RVO/NRVO)](http://razakhel.github.io/blog/understand-copy-elision/)
 
 ---
 
