@@ -17,6 +17,7 @@
 - [Frameworkless Movement](https://www.frameworklessmovement.org/)
 - [:star: :book: Roadmap](https://roadmap.sh/)
 - [:wrench: Inno Setup](https://jrsoftware.org/isinfo.php)
+- [:star: Software disenchantment](https://tonsky.me/blog/disenchantment/)
 
 ## Challenges
 - [:star: :video_game: CodinGame](https://www.codingame.com/start)
