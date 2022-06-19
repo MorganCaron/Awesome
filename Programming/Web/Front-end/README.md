@@ -34,6 +34,9 @@
 - [Webpack](https://webpack.js.org)
 - [:star: Vitejs](https://vitejs.dev)
 
+## SEO
+- [:book: Search Engine Optimization](https://en.wikipedia.org/wiki/Search_engine_optimization)
+- [SEO - Google Starter Guide](https://developers.google.com/search/docs/beginner/seo-starter-guide?hl=fr)
 
 ## Tutorials
 - [MarkSheet](https://marksheet.io/)
