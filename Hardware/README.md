@@ -8,6 +8,7 @@
 - [Time to upgrade your monitor](https://tonsky.me/blog/monitors/)
 - [Screen Size Map](https://www.screensizemap.com/)
 - [WinDirStat](https://windirstat.net)
+- [Bottleneck Calculator](https://pc-builds.com/fr/bottleneck-calculator/)
 
 ## Repair
 - [:star: :wrench: TestDisk](https://www.cgsecurity.org/wiki/TestDisk_Etape_par_Etape)
