@@ -40,6 +40,7 @@
 - [LearnCpp.com](https://www.learncpp.com)
 - [:star: :book: [Named] Return Value Optimization (RVO/NRVO)](http://razakhel.github.io/blog/understand-copy-elision/)
 - [:star: C++ Iceberg](https://fouronnes.github.io/cppiceberg/)
+- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
 ---
 
