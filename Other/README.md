@@ -33,6 +33,9 @@
 - [:wrench: AnyDesk](https://anydesk.com/)
 - [:wrench: Teamviewer](https://www.teamviewer.com/)
 
+## DNS
+- [1.1.1.1](https://1.1.1.1)
+
 ## VPN
 - [NordVPN](https://nordvpn.com/)
 - [ProtonVPN](https://protonvpn.com/)
