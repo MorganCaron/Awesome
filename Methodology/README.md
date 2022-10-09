@@ -13,7 +13,8 @@
 - [:book: Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas)
 
 ## Social Optimizations
-- [:star: No Hello](https://www.nohello.com/)
+- [:star: NoHello.net](https://nohello.net/)
+- [NoHello.com](https://www.nohello.com/)
 - [:star: Don't ask to ask](https://dontasktoask.com)
 - [:star: Don't ask to ask (FR)](https://dontasktoask.com/fr/)
 - [:star: How to ask](https://stackoverflow.com/help/how-to-ask)
