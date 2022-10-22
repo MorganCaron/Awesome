@@ -49,6 +49,9 @@
 - [:star: :movie_camera: Comparing C to machine language](https://www.youtube.com/watch?v=yOyaJXpAYZQ)
 - [:book: Function prologue/epilogue](https://en.wikipedia.org/wiki/Function_prologue)
 
+### UI/UX
+- [:book: A/B Testing](https://fr.wikipedia.org/wiki/Test_A/B)
+
 ## Specializations
 - [Algorithms](Algorithms/README.md)
 - [API](API/README.md)
