@@ -15,6 +15,8 @@
 - [:wrench: System Rescue CD](https://www.system-rescue-cd.org/)
 - [:wrench: Recuva](https://www.ccleaner.com/recuva)
 
+## Keyboard
+- [:star: TypingClub](https://www.typingclub.com/)
 ---
 
 ### Legend
