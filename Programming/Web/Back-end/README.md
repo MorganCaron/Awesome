@@ -3,7 +3,8 @@
 [![Back to Parent Page](https://img.shields.io/badge/-Back_to_Parent_Page-blue?style=for-the-badge)](../README.md)
 
 ## Softwares
-- [Insomnia](https://insomnia.rest/)
+- [:star: :wrench: Insomnia](https://insomnia.rest/)
+- [:wrench: Postman](https://www.postman.com)
 
 ## Database
 - [:star: AirTable](https://airtable.com/)
