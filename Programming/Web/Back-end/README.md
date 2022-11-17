@@ -5,6 +5,7 @@
 ## Softwares
 - [:star: :wrench: Insomnia](https://insomnia.rest/)
 - [:wrench: Postman](https://www.postman.com)
+-[:wrench: HoppScotch](https://hoppscotch.io)
 
 ## Database
 - [:star: AirTable](https://airtable.com/)
