@@ -12,6 +12,10 @@
 ### Compilers
 - [Visual Studio Build Tools](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools)
 
+### Installers
+- [:star: Inno Setup](https://jrsoftware.org/isinfo.php)
+- [InstallShield](https://installshield.fr/produits/installshield.html?t=1)
+
 ---
 
 ### Legend
