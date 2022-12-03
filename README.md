@@ -40,6 +40,7 @@
 	- [Images](Resources/README.md#Images)
 	- [Fonts](Resources/README.md#Fonts)
 	- [Drivers](Resources/README.md#Drivers)
+- **[Security](Security/README.md)**
 - **[Other](Other/README.md)**
 	- [Remote Desktop](Other/README.md#Remote%20Desktop)
 	- [VPN](Other/README.md#VPN)
