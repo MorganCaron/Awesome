@@ -17,6 +17,10 @@
 
 ## Keyboard
 - [:star: TypingClub](https://www.typingclub.com/)
+- [:star: KeyBr](https://www.keybr.com)
+- [:star: :video_game: TypeRacer](https://play.typeracer.com)
+- [RataType](https://www.ratatype.fr)
+
 ---
 
 ### Legend
