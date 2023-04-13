@@ -22,6 +22,9 @@
 - [:star: :wrench: Stable Diffusion](https://stablediffusionweb.com/#demo)
 - [:star: :wrench: Stable Diffusion - Prompt Helper](https://www.stable-diffusion-france.fr/prompt-helper.php)
 
+### Copilot
+- [:star: :wrench: Github Copilot](https://copilot.github.com/)
+
 ### Artificial Consciousness
 - [:star: :movie_camera: Passe-science - Vers la conscience artificielle](https://www.youtube.com/watch?v=ChcYySk_jro)
 
