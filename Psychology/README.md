@@ -26,6 +26,7 @@
 
 ## Principles
 - [:book: Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
+- [:book: Law of triviality (Parkinson's law of triviality)](https://en.wikipedia.org/wiki/Law_of_triviality)
 - [:book: Brandolini's law](https://en.wikipedia.org/wiki/Brandolini%27s_law)
 - [:book: Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
 - [:book: Harm principle](https://en.wikipedia.org/wiki/Harm_principle)
