@@ -36,6 +36,8 @@
 - [:book: Self-documenting code](https://en.wikipedia.org/wiki/Self-documenting_code)
 - [:star: Notation Big-O](https://www.jesuisundev.com/comprendre-la-notation-big-o-en-7-minutes/)
 - [:star: :book: Fonctionnement de la pile](https://beta.hackndo.com/stack-introduction/)
+- [:book: Currying](https://en.wikipedia.org/wiki/Currying)
+- [:book: Memoization](https://en.wikipedia.org/wiki/Memoization)
 
 ### Protocols
 - [:book: RFC](https://fr.wikipedia.org/wiki/Request_for_comments)
