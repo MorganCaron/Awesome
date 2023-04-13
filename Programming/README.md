@@ -53,8 +53,11 @@
 - [:book: Function prologue/epilogue](https://en.wikipedia.org/wiki/Function_prologue)
 - [:book: List of Java bytecode instructions](https://en.wikipedia.org/wiki/List_of_Java_bytecode_instructions)
 
-### UI/UX
-- [:book: A/B Testing](https://fr.wikipedia.org/wiki/Test_A/B)
+### Testing
+- [:book: Fuzzing](https://en.wikipedia.org/wiki/Fuzzing)
+
+#### UI/UX
+- [:book: A/B Testing](https://en.wikipedia.org/wiki/A/B_testing)
 
 ## Specializations
 - [Algorithms](Algorithms/README.md)
