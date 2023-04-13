@@ -5,6 +5,7 @@
 ## General
 - [:book: Strain wave gearing](https://en.wikipedia.org/wiki/Strain_wave_gearing)
 - [:book: Voith Schneider Propeller](https://en.wikipedia.org/wiki/Voith_Schneider_Propeller)
+- [:book: Gimbal lock](https://en.wikipedia.org/wiki/Gimbal_lock)
 
 ---
 
