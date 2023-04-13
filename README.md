@@ -18,6 +18,7 @@
 - **[Licenses](Licenses/README.md)**
 - **[Maths](Maths/README.md)**
 	- [Trigonometry](Maths/README.md#Trigonometry)
+- **[Mechanics](Mechanics/README.md)**
 - **[Methodology](Methodology/README.md)**
 	- [Business](Methodology/README.md#Business)
 	- [Social Optimizations](Methodology/README.md#Social%20Optimizations)
