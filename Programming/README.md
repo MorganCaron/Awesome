@@ -35,6 +35,7 @@
 - [:book: Side effect](https://en.wikipedia.org/wiki/Side_effect_(computer_science))
 - [:book: Self-documenting code](https://en.wikipedia.org/wiki/Self-documenting_code)
 - [:star: Notation Big-O](https://www.jesuisundev.com/comprendre-la-notation-big-o-en-7-minutes/)
+- [:star: :book: Fonctionnement de la pile](https://beta.hackndo.com/stack-introduction/)
 
 ### Protocols
 - [:book: RFC](https://fr.wikipedia.org/wiki/Request_for_comments)
