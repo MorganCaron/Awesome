@@ -22,6 +22,9 @@
 - [:star: :wrench: Stable Diffusion](https://stablediffusionweb.com/#demo)
 - [:star: :wrench: Stable Diffusion - Prompt Helper](https://www.stable-diffusion-france.fr/prompt-helper.php)
 
+### Search Engines
+- [:star: :wrench: Phind](https://www.phind.com/)
+
 ### Copilot
 - [:star: :wrench: Github Copilot](https://copilot.github.com/)
 
