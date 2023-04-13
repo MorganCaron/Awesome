@@ -22,7 +22,6 @@
 	- [Business](Methodology/README.md#Business)
 	- [Social Optimizations](Methodology/README.md#Social%20Optimizations)
 - **[Philosophy](Philosophy/README.md)**
-	- [Cognitive Bias](Philosophy/README.md#Cognitive%20Bias)
 - **[Physics](Physics/README.md)**
 - **[Programming](Programming/README.md)**
 	- [Algorithms](Programming/Algorithms/README.md)
@@ -34,6 +33,8 @@
 	- [IDE](Programming/IDE/README.md)
 	- [Utils](Programming/Utils/README.md)
 	- [Web](Programming/Web/README.md)
+- **[Psychology](Psychology/README.md)**
+	- [Cognitive Bias](Philosophy/README.md#Cognitive%20Bias)
 - **[Resources](Resources/README.md)**
 	- [Icons](Resources/README.md#Icons)
 	- [SoundBanks](Resources/README.md#SoundBanks)
