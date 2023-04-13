@@ -7,6 +7,12 @@
 - [:book: Dilemme cornélien](https://fr.wikipedia.org/wiki/Dilemme_corn%C3%A9lien)
 - [:book: Dialogue mélien](https://fr.wikipedia.org/wiki/Dialogue_m%C3%A9lien)
 - [:book: Inversion de la charge de la preuve](https://fr.wikipedia.org/wiki/Inversion_de_la_charge_de_la_preuve_(rh%C3%A9torique))
+- [:book: Syllogism](https://en.wikipedia.org/wiki/Syllogism)
+- [:book: Apophenia](https://en.wikipedia.org/wiki/Apophenia)
+
+## Sophist
+- [:book: Sophist](https://en.wikipedia.org/wiki/Sophist)
+- [:book: Principle of explosion](https://en.wikipedia.org/wiki/Principle_of_explosion)
 
 ## Cognitive Bias
 - [:book: Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
@@ -23,6 +29,11 @@
 - [:book: Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
 - [:book: Harm principle](https://en.wikipedia.org/wiki/Harm_principle)
 - [:book: Streisand effect](https://en.wikipedia.org/wiki/Streisand_effect)
+- [:book: Law of the instrument](https://en.wikipedia.org/wiki/Law_of_the_instrument)
+- [:book: FOMO syndrom](https://fr.wikipedia.org/wiki/Syndrome_FOMO)
+
+## Razors
+- [:star: :book: Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
 
 ---
 
