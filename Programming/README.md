@@ -55,6 +55,7 @@
 
 ### Testing
 - [:book: Fuzzing](https://en.wikipedia.org/wiki/Fuzzing)
+- [:book: Mock object](https://en.wikipedia.org/wiki/Mock_object)
 
 #### UI/UX
 - [:book: A/B Testing](https://en.wikipedia.org/wiki/A/B_testing)
