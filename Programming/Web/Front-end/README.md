@@ -33,6 +33,8 @@
 - [Elevator.js](http://tholman.com/elevator.js/)
 - [Webpack](https://webpack.js.org)
 - [:star: Vitejs](https://vitejs.dev)
+- [:star: Framer Motion Canvas](https://www.framer.com/motion/motioncanvas/)
+- [:star: Motion Canvas](https://motion-canvas.github.io)
 
 ## SEO
 - [:book: Search Engine Optimization](https://en.wikipedia.org/wiki/Search_engine_optimization)
