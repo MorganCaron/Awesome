@@ -10,6 +10,18 @@
 - [Elements of AI](https://course.elementsofai.com/)
 - [:star: LUIS - Microsoft Language Understanding](https://www.luis.ai/)
 
+### Conversational Agent
+
+#### ChatGPT
+- [:star: :wrench: ChatGPT](https://chat.openai.com/chat)
+- [:book: ChatGPT Dan Jailbreak](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516)
+
+### Image Generation
+- [:star: :wrench: Dall-E 2](https://labs.openai.com)
+- [:star: :wrench: MidJourney](https://www.midjourney.com/)
+- [:star: :wrench: Stable Diffusion](https://stablediffusionweb.com/#demo)
+- [:star: :wrench: Stable Diffusion - Prompt Helper](https://www.stable-diffusion-france.fr/prompt-helper.php)
+
 ### Artificial Consciousness
 - [:star: :movie_camera: Passe-science - Vers la conscience artificielle](https://www.youtube.com/watch?v=ChcYySk_jro)
 
