@@ -22,6 +22,7 @@
 - [:book: McNamara fallacy](https://en.wikipedia.org/wiki/McNamara_fallacy)
 - [:book: Halo effect](https://en.wikipedia.org/wiki/Halo_effect)
 - [:book: Overton window](https://en.wikipedia.org/wiki/Overton_window)
+- [:book: Mandela Effect (False memory)](https://en.wikipedia.org/wiki/False_memory)
 
 ## Principles
 - [:book: Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
