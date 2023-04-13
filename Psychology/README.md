@@ -32,6 +32,7 @@
 - [:book: Streisand effect](https://en.wikipedia.org/wiki/Streisand_effect)
 - [:book: Law of the instrument](https://en.wikipedia.org/wiki/Law_of_the_instrument)
 - [:book: FOMO syndrom](https://fr.wikipedia.org/wiki/Syndrome_FOMO)
+- [:book: Bystander effect](https://en.wikipedia.org/wiki/Bystander_effect)
 
 ## Razors
 - [:star: :book: Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
