@@ -16,6 +16,10 @@
 - [:star: :wrench: ChatGPT](https://chat.openai.com/chat)
 - [:book: ChatGPT Dan Jailbreak](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516)
 
+#### AgentGPT
+- [:star: :wrench: Demo AgentGPT](https://agentgpt.reworkd.ai)
+- [Github AgentGPT](https://github.com/reworkd/AgentGPT)
+
 ### Image Generation
 - [:star: :wrench: Dall-E 2](https://labs.openai.com)
 - [:star: :wrench: MidJourney](https://www.midjourney.com/)
