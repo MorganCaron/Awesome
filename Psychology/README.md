@@ -35,6 +35,7 @@
 - [:book: FOMO syndrom](https://fr.wikipedia.org/wiki/Syndrome_FOMO)
 - [:book: Bystander effect](https://en.wikipedia.org/wiki/Bystander_effect)
 - [:book: Spotlight effect](https://en.wikipedia.org/wiki/Spotlight_effect)
+- [:book: Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle)
 
 ## Razors
 - [:star: :book: Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
