@@ -20,6 +20,9 @@
 - [:star: :wrench: Demo AgentGPT](https://agentgpt.reworkd.ai)
 - [Github AgentGPT](https://github.com/reworkd/AgentGPT)
 
+#### Auto-GPT
+- [Github Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+
 ### Image Generation
 - [:star: :wrench: Dall-E 2](https://labs.openai.com)
 - [:star: :wrench: MidJourney](https://www.midjourney.com/)
