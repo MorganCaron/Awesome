@@ -6,7 +6,6 @@
 - [:book: Rhetoric](https://en.wikipedia.org/wiki/Rhetoric)
 - [:book: Dilemme cornélien](https://fr.wikipedia.org/wiki/Dilemme_corn%C3%A9lien)
 - [:book: Dialogue mélien](https://fr.wikipedia.org/wiki/Dialogue_m%C3%A9lien)
-- [:book: Inversion de la charge de la preuve](https://fr.wikipedia.org/wiki/Inversion_de_la_charge_de_la_preuve_(rh%C3%A9torique))
 - [:book: Syllogism](https://en.wikipedia.org/wiki/Syllogism)
 - [:book: Apophenia](https://en.wikipedia.org/wiki/Apophenia)
 

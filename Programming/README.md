@@ -26,13 +26,12 @@
 
 ## Concepts
 - [:book: Turing Machine](https://en.wikipedia.org/wiki/Turing_machine)
-- [:book: Garbage Collector](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science))
 - [:book: RAII](https://fr.wikipedia.org/wiki/Resource_acquisition_is_initialization)
 - [:book: Bloatware](https://fr.wikipedia.org/wiki/Bloatware)
 - [:book: Principe de moindre surprise](https://fr.wikipedia.org/wiki/Principe_de_moindre_surprise)
 - [:book: Parser Combinator](https://en.wikipedia.org/wiki/Parser_combinator)
 - [:book: Synthèse Concaténative](https://en.wikipedia.org/wiki/Concatenative_synthesis)
-- [:book: Side effect](https://en.wikipedia.org/wiki/Side_effect_(computer_science))
+<!-- - [:book: Side effect](broken-link:https://en.wikipedia.org/wiki/Side_effect_(computer_science)) -->
 - [:book: Self-documenting code](https://en.wikipedia.org/wiki/Self-documenting_code)
 - [:star: Notation Big-O](https://www.jesuisundev.com/comprendre-la-notation-big-o-en-7-minutes/)
 - [:star: :book: Fonctionnement de la pile](https://beta.hackndo.com/stack-introduction/)

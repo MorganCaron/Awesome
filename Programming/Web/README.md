@@ -16,7 +16,6 @@
 
 ## Concepts
 - [:book: Moteur JavaScript](https://en.wikipedia.org/wiki/JavaScript_engine)
-- [:book: V8 (Moteur JavaScript)](https://en.wikipedia.org/wiki/V8_(JavaScript_engine))
 
 ## Package Manager
 - [NPM](https://www.npmjs.com/)

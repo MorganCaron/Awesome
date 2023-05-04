@@ -5,7 +5,6 @@
 ## General
 - [:book: Noetics](https://en.wikipedia.org/wiki/Noetics)
 - [:book: Emergence](https://en.wikipedia.org/wiki/Emergence)
-- [:book: Theory of everything](https://en.wikipedia.org/wiki/Theory_of_everything_(philosophy))
 - [:book: Ontology](https://en.wikipedia.org/wiki/Ontology)
 - [:book: Solipsism](https://en.wikipedia.org/wiki/Solipsism)
 
