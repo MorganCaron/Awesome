@@ -30,6 +30,9 @@
 - [:star: :wrench: Stable Diffusion - Prompt Helper](https://www.stable-diffusion-france.fr/prompt-helper.php)
 - [:star: :wrench: Easy Diffusion - Stable Diffusion UI](https://github.com/cmdr2/stable-diffusion-ui)
 
+#### Models
+- [:star: :wrench: CivitAi - Stable Diffusion Models](https://civitai.com)
+
 ### Search Engines
 - [:star: :wrench: Phind](https://www.phind.com/)
 
