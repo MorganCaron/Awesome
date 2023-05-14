@@ -96,6 +96,7 @@
 - [:wrench: Kamakou - SEO performance audit](http://molokai.be/kamakou)
 - [:wrench: JWT.io](https://jwt.io/)
 - [:star: :wrench: CSSLayout.io](https://csslayout.io/)
+- [:star: :wrench: Générateur de motifs CSS](https://online-free-tools.com/fr/css_generateur_motif_pattern_background)
 - [:wrench: GetWaves.io](https://getwaves.io/)
 - [:wrench: Loading.io](https://loading.io/)
 - [Node Red](https://nodered.org/)
