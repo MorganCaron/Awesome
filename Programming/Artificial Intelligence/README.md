@@ -38,6 +38,7 @@
 - [:star: :wrench: Phind](https://www.phind.com/)
 
 ### Copilot
+- [:star: :wrench: Cursor.so](https://www.cursor.so)
 - [:star: :wrench: Github Copilot](https://copilot.github.com/)
 
 ### Artificial Consciousness
