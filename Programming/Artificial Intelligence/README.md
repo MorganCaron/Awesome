@@ -41,6 +41,9 @@
 - [:star: :wrench: Cursor.so](https://www.cursor.so)
 - [:star: :wrench: Github Copilot](https://copilot.github.com/)
 
+### Gaming
+- [Voyager Minedojo](https://voyager.minedojo.org)
+
 ### Artificial Consciousness
 - [:star: :movie_camera: Passe-science - Vers la conscience artificielle](https://www.youtube.com/watch?v=ChcYySk_jro)
 
