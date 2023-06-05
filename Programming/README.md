@@ -63,6 +63,10 @@
 - [:wrench: Selenium](https://www.selenium.dev)
 - [:wrench: Robot Framework](https://robotframework.org)
 
+### Startups
+- [Microsoft Startups](https://www.microsoft.com/en-us/startups)
+- [Amazon Startups](https://aws.amazon.com/fr/startups/)
+
 #### UI/UX
 - [:book: A/B Testing](https://en.wikipedia.org/wiki/A/B_testing)
 
