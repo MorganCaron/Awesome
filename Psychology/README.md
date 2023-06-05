@@ -23,6 +23,7 @@
 - [:book: Halo effect](https://en.wikipedia.org/wiki/Halo_effect)
 - [:book: Overton window](https://en.wikipedia.org/wiki/Overton_window)
 - [:book: Mandela Effect (False memory)](https://en.wikipedia.org/wiki/False_memory)
+- [:book: Plan continuation bias (Biais du coût irrécupérable)](https://en.wikipedia.org/wiki/Sunk_cost)
 
 ## Principles
 - [:book: Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
