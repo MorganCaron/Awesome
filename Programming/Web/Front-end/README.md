@@ -2,28 +2,46 @@
 
 [![Back to Parent Page](https://img.shields.io/badge/-Back_to_Parent_Page-blue?style=for-the-badge)](../README.md)
 
-## Libs / Frameworks
-- [Font Awesome](https://fontawesome.com/)
-- [Line Awesome](https://icons8.com/line-awesome)
-- [Icofont](https://icofont.com/icons)
+## Build tools
+- [Webpack](https://webpack.js.org)
+- [:star: ViteJS](https://vitejs.dev)
+
+## UI frameworks
 - [Bootstrap](https://getbootstrap.com/)
 - [Materialize](https://materializecss.com/)
 - [Material UI](https://material-ui.com/)
 - [Semantic UI](https://semantic-ui.com/)
-- [Material Design Lite](https://getmdl.io/)
 - [Angular Material](https://material.angular.io/)
+- [Material Design Lite](https://getmdl.io/)
+
+## Web-app frameworks
 - [Angular](https://angular.io/)
 - [React](https://reactjs.org/)
 - [Vue.js](https://vuejs.org/)
+
+## Icons libraries
+- [Font Awesome](https://fontawesome.com/)
+- [Line Awesome](https://icons8.com/line-awesome)
+- [Icofont](https://icofont.com/icons)
+
+## 2D graphic frameworks
 - [Pixi.js](https://www.pixijs.com/)
 - [D3.js](https://d3js.org/)
+
+## 3D graphic frameworks
 - [:star: Three.js](https://threejs.org/)
 - [:star: Babylon.js](https://www.babylonjs.com/)
-- [TinyMCE](https://www.tiny.cloud/)
+
+## Animations frameworks
 - [Anime.js](https://animejs.com/)
 - [ScrollMagic](https://scrollmagic.io/)
+
+## Map libs
 - [MapBox](https://www.mapbox.com/)
 - [Leaflet.js](https://leafletjs.com/)
+
+## Other Libs / Frameworks
+- [TinyMCE](https://www.tiny.cloud/)
 - [Auth0](https://auth0.com/)
 - [Prism.js](https://prismjs.com/)
 - [PulpLoad](https://www.plupload.com/)
@@ -31,8 +49,6 @@
 - [HTMHell](https://www.htmhell.dev/)
 - [The Vanilla JavaScript Toolkit](https://vanillajstoolkit.com/)
 - [Elevator.js](http://tholman.com/elevator.js/)
-- [Webpack](https://webpack.js.org)
-- [:star: Vitejs](https://vitejs.dev)
 - [:star: Framer Motion Canvas](https://www.framer.com/motion/motioncanvas/)
 - [:star: Motion Canvas](https://motion-canvas.github.io)
 
