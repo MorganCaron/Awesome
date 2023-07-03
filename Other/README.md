@@ -50,6 +50,7 @@
 
 ## Job Search
 - [:star: LinkedIn](https://www.linkedin.com/)
+- [Talent.io](https://www.talent.io/)
 - [Indeed](https://fr.indeed.com)
 - [LesJeudis](https://www.lesjeudis.com/)
 - [Monster](https://www.monster.fr/)
