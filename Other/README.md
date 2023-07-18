@@ -50,6 +50,9 @@
 
 ## Job Search
 - [:star: LinkedIn](https://www.linkedin.com/)
+- [Glassdoor](https://www.glassdoor.fr/)
+- [Caraz.io](https://caraz.io)
+- [Urban Linker](https://urbanlinker.com/fr/)
 - [Talent.io](https://www.talent.io/)
 - [Indeed](https://fr.indeed.com)
 - [LesJeudis](https://www.lesjeudis.com/)
@@ -57,6 +60,7 @@
 - [Recrut-Info](https://www.recrut-info.com/opportunites/)
 - [ChooseYourBoss](https://www.chooseyourboss.com/)
 - [Apec](https://www.apec.fr/)
+- [Sept-Lieues](https://www.sept-lieues.com)
 
 ---
 
