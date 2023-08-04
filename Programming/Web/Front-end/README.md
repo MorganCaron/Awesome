@@ -2,6 +2,11 @@
 
 [![Back to Parent Page](https://img.shields.io/badge/-Back_to_Parent_Page-blue?style=for-the-badge)](../README.md)
 
+## Language documentations
+- [:star: :book: Mozilla Documentation](https://developer.mozilla.org/fr/docs/Web)
+- [HtmlReference.io](https://htmlreference.io)
+- [CssReference.io](https://cssreference.io)
+
 ## Build tools
 - [Webpack](https://webpack.js.org)
 - [:star: ViteJS](https://vitejs.dev)
