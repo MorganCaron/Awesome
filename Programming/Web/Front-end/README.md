@@ -125,6 +125,7 @@
 - [Node Red](https://nodered.org/)
 - [Selenium](https://github.com/SeleniumHQ/selenium)
 - [:wrench: Pravatar](https://pravatar.cc)
+- [:wrench: Favicon.io](https://favicon.io)
 
 ---
 
