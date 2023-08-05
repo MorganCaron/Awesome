@@ -124,6 +124,7 @@
 - [:wrench: Loading.io](https://loading.io/)
 - [Node Red](https://nodered.org/)
 - [Selenium](https://github.com/SeleniumHQ/selenium)
+- [:wrench: Pravatar](https://pravatar.cc)
 
 ---
 
