@@ -39,6 +39,7 @@
 
 ### Search Engines
 - [:star: :wrench: Phind](https://www.phind.com/)
+- [:star: :wrench: Google Lens](https://lens.google/intl/fr/)
 
 ### Copilot
 - [:star: :wrench: Cursor.so](https://www.cursor.so)

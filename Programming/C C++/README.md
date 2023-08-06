@@ -23,7 +23,7 @@
 - [More C++ Idioms](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms)
 - [FluentCpp](https://www.fluentcpp.com/)
 - [:star: :movie_camera: Jason Turner](https://www.youtube.com/user/lefticus1)
-- [Blog de Jonathan Poelen](https://jonathanpoelen.github.io/)
+- [:star: Blog de Jonathan Poelen](https://jonathanpoelen.github.io/)
 - [Auto: Pièges et évolutions du C++ Moderne](https://blog.invivoo.com/auto-pieges-et-evolutions-du-c-moderne/)
 - [:star: SirLynixVanFrietjes' Blog](https://sirlynixvanfrietjes.be/)
 - [:star: Le passage d'objets par argument](https://sirlynixvanfrietjes.be/2018/02/25/cpp-moderne-le-passage-dobjets-par-argument/)
