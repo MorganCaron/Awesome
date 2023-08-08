@@ -2,6 +2,11 @@
 
 [![Back to Parent Page](https://img.shields.io/badge/-Back_to_Parent_Page-blue?style=for-the-badge)](../README.md)
 
+## Tips
+
+### CSS
+- [:star: :book: Google - Performant Parallaxing](https://developer.chrome.com/blog/performant-parallaxing/)
+
 ## Language documentations
 - [:star: :book: Mozilla Documentation](https://developer.mozilla.org/fr/docs/Web)
 - [HtmlReference.io](https://htmlreference.io)
