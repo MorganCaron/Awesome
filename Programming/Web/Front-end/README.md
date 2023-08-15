@@ -50,6 +50,10 @@
 - [MapBox](https://www.mapbox.com/)
 - [Leaflet.js](https://leafletjs.com/)
 
+## Github Pages
+- [:star: Hugo](https://gohugo.io)
+- [:star: Jekyll](https://jekyllrb.com)
+
 ## Other Libs / Frameworks
 - [TinyMCE](https://www.tiny.cloud/)
 - [Auth0](https://auth0.com/)
