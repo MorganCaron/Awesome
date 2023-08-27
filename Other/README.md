@@ -28,6 +28,7 @@
 - [:wrench: Icaros](https://www.majorgeeks.com/files/details/icaros.html)
 - [:star: :wrench: Photopea](https://www.photopea.com)
 - [European alternatives](https://european-alternatives.eu/alternatives-to)
+- [:star: :wrench: yt-dlp: Audio/Video Downloader](https://github.com/yt-dlp/yt-dlp)
 
 ## Remote Desktop
 - [:star: :wrench: Google Remote Desktop](https://remotedesktop.google.com/)
