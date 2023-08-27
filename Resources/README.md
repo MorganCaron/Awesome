@@ -22,6 +22,7 @@
 - [:wrench: WhatFontIs](https://www.whatfontis.com/)
 
 ## Drivers
+- [:star: :wrench: Intel Drivers Detector](https://www.intel.fr/content/www/fr/fr/support/detect.html)
 - [:wrench: TLD](https://www.touslesdrivers.com/index.php?v_page=29)
 - [:wrench: DriversCloud](https://www.driverscloud.com/fr/demarrer)
 
