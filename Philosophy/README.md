@@ -7,6 +7,7 @@
 - [:book: Emergence](https://en.wikipedia.org/wiki/Emergence)
 - [:book: Theory of everything](https://en.wikipedia.org/wiki/Theory_of_everything_(philosophy))
 - [:book: Ontology](https://en.wikipedia.org/wiki/Ontology)
+- [:book: Epistemology](https://en.wikipedia.org/wiki/Epistemology)
 - [:book: Solipsism](https://en.wikipedia.org/wiki/Solipsism)
 
 ---
