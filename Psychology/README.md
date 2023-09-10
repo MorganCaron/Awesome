@@ -9,6 +9,7 @@
 - [:book: Inversion de la charge de la preuve](https://fr.wikipedia.org/wiki/Inversion_de_la_charge_de_la_preuve_(rh%C3%A9torique))
 - [:book: Syllogism](https://en.wikipedia.org/wiki/Syllogism)
 - [:book: Apophenia](https://en.wikipedia.org/wiki/Apophenia)
+- [:book: Cherry picking](https://fr.wikipedia.org/wiki/Cherry_picking)
 
 ## Sophist
 - [:book: Sophisme](https://fr.wikipedia.org/wiki/Sophisme)
