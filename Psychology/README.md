@@ -11,8 +11,9 @@
 - [:book: Apophenia](https://en.wikipedia.org/wiki/Apophenia)
 
 ## Sophist
-- [:book: Sophist](https://en.wikipedia.org/wiki/Sophist)
+- [:book: Sophisme](https://fr.wikipedia.org/wiki/Sophisme)
 - [:book: Principle of explosion](https://en.wikipedia.org/wiki/Principle_of_explosion)
+- [:book: Sophisme du tireur d'élite texan](https://fr.wikipedia.org/wiki/Sophisme_du_tireur_d%27%C3%A9lite_texan)
 
 ## Cognitive Bias
 - [:book: Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
