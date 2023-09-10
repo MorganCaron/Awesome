@@ -8,6 +8,7 @@
 - [:book: Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development))
 - [:book: Kanban](https://en.wikipedia.org/wiki/Kanban)
 - [:book: No Estimates](https://blog.cellenza.com/software-craftsmanship/estimer-sans-estimer/)
+- [:wrench: Obsidian](https://obsidian.md)
 
 ## Business
 - [:book: Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas)
