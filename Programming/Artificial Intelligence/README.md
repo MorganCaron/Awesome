@@ -3,6 +3,8 @@
 [![Back to Parent Page](https://img.shields.io/badge/-Back_to_Parent_Page-blue?style=for-the-badge)](../README.md)
 
 ## General
+- [:book: Convergence Instrumentale](https://fr.wikipedia.org/wiki/Convergence_instrumentale)
+- [:book: Maximiseur de trombones](https://fr.wikipedia.org/wiki/Convergence_instrumentale#Maximiseur_de_trombones)
 
 ### Artificial Neural Network
 - [:star: :book: Double Zoom - Les algorithmes génétiques](http://doublezoom.free.fr/programmation/AG_Principe.php)
