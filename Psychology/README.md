@@ -25,6 +25,7 @@
 - [:book: Overton window](https://en.wikipedia.org/wiki/Overton_window)
 - [:book: Mandela Effect (False memory)](https://en.wikipedia.org/wiki/False_memory)
 - [:book: Plan continuation bias (Biais du coût irrécupérable)](https://en.wikipedia.org/wiki/Sunk_cost)
+- [:book: Selection bias](https://en.wikipedia.org/wiki/Selection_bias)
 
 ## Principles
 - [:book: Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
