@@ -86,6 +86,7 @@
 - [:wrench: Unjquerify](https://www.unjquerify.com/)
 - [De jQuery à VanillaJs](https://putaindecode.io/articles/de-jquery-a-vanillajs/)
 - [Interneting is Hard](https://www.internetingishard.com/)
+- [:star: Mise en cache CSS/JS](https://blog.smarchal.com/mise-en-cache-js-css)
 
 ### Flexbox
 - [:star: :book: MDN Flexbox](https://developer.mozilla.org/fr/docs/Apprendre/CSS/CSS_layout/Flexbox)
