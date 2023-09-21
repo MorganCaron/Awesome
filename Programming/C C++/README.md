@@ -9,6 +9,11 @@
 - [:book: Header-only](https://en.wikipedia.org/wiki/Header-only)
 - [CppFront](https://github.com/hsutter/cppfront)
 
+### Build Systems
+- [CMake](https://cliutils.gitlab.io/modern-cmake/)
+- [Meson Build](https://mesonbuild.com)
+- [:star: XMake](https://xmake.io/)
+
 ### Libraries
 - [WinLibs: GCC & MinGW-w64 for Windows](http://winlibs.com/)
 - [Assimp](https://www.assimp.org/)
