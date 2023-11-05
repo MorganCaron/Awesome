@@ -140,6 +140,7 @@
 - [:wrench: Pravatar](https://pravatar.cc)
 - [:wrench: Favicon.io](https://favicon.io)
 - [:star: :wrench: Neumorphism.io](https://neumorphism.io/)
+- [ModelViewer](https://modelviewer.dev)
 
 ---
 
