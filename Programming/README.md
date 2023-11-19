@@ -19,6 +19,7 @@
 - [:wrench: Inno Setup](https://jrsoftware.org/isinfo.php)
 - [:star: Software disenchantment](https://tonsky.me/blog/disenchantment/)
 - [:book: BSON (Binary JSON)](https://bsonspec.org)
+- [:book: Roadmap.sh](https://roadmap.sh)
 
 ## Challenges
 - [:star: :video_game: CodinGame](https://www.codingame.com/start)
