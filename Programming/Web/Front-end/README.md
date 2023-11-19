@@ -32,6 +32,10 @@
 - [React](https://reactjs.org/)
 - [Vue.js](https://vuejs.org/)
 
+## Mobile frameworks
+- [React Native](https://reactnative.dev/)
+- [Capacitor](https://capacitorjs.com/)
+
 ## Icons libraries
 - [Font Awesome](https://fontawesome.com/)
 - [Line Awesome](https://icons8.com/line-awesome)
