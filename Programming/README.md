@@ -57,6 +57,9 @@
 - [:book: Function prologue/epilogue](https://en.wikipedia.org/wiki/Function_prologue)
 - [:book: List of Java bytecode instructions](https://en.wikipedia.org/wiki/List_of_Java_bytecode_instructions)
 
+### Operating Systems
+- [:book: OS Dev Wiki](https://wiki.osdev.org/Main_Page)
+
 ### Testing
 - [:book: Fuzzing](https://en.wikipedia.org/wiki/Fuzzing)
 - [:book: Mock object](https://en.wikipedia.org/wiki/Mock_object)
