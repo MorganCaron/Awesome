@@ -20,6 +20,7 @@
 - [:star: Software disenchantment](https://tonsky.me/blog/disenchantment/)
 - [:book: BSON (Binary JSON)](https://bsonspec.org)
 - [:book: Roadmap.sh](https://roadmap.sh)
+- [:wrench: EditorConfig](https://editorconfig.org)
 
 ## Challenges
 - [:star: :video_game: CodinGame](https://www.codingame.com/start)
