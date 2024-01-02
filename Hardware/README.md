@@ -9,6 +9,7 @@
 - [Screen Size Map](https://www.screensizemap.com/)
 - [WinDirStat](https://windirstat.net)
 - [Bottleneck Calculator](https://pc-builds.com/fr/bottleneck-calculator/)
+- [HWiNFO](https://www.hwinfo.com/download/)
 
 ## Repair
 - [:star: :wrench: TestDisk](https://www.cgsecurity.org/wiki/TestDisk_Etape_par_Etape)
