@@ -88,6 +88,13 @@
 - [Kibana](https://www.elastic.co/fr/kibana/)
 - [Streamlit](https://streamlit.io/)
 - [Dash](https://dash.plotly.com)
+- [PowerBI](https://www.microsoft.com/fr-fr/power-platform/products/power-bi)
+- [Tableau](https://www.tableau.com/fr-fr)
+
+## Online Compilers
+- [:wrench: JsFiddle](https://jsfiddle.net/)
+- [:wrench: CodeSandbox.io](https://codesandbox.io/)
+- [:star: Codepen](https://codepen.io/)
 
 ## Tutorials
 - [MarkSheet](https://marksheet.io/)
@@ -129,7 +136,6 @@
 - [:wrench: Syncope](https://nowodzinski.pl/syncope/)
 - [Front-End Checklist](https://frontendchecklist.io/)
 - [:wrench: Animista](http://animista.net/)
-- [:star: Codepen](https://codepen.io/)
 - [:wrench: Polyfill.io](https://polyfill.io/)
 - [:star: Google Pagespeed Insights](http://developers.google.com/speed/pagespeed/insights/)
 - [:wrench: Google Test Mobile Friendly](https://search.google.com/test/mobile-friendly)
