@@ -86,6 +86,8 @@
 ## Dataviz
 - [Grafana](https://grafana.com)
 - [Kibana](https://www.elastic.co/fr/kibana/)
+- [Streamlit](https://streamlit.io/)
+- [Dash](https://dash.plotly.com)
 
 ## Tutorials
 - [MarkSheet](https://marksheet.io/)
