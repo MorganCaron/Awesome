@@ -9,6 +9,11 @@
 ## Password Managers
 - [:wrench: https://keepass.info](KeePass)
 
+## Cipher
+- [:book: Caesar cipher](https://fr.wikipedia.org/wiki/Chiffrement_par_d%C3%A9calage)
+- [:book: Vigenère cipher](https://fr.wikipedia.org/wiki/Chiffre_de_Vigenère)
+- [:book: AES (Advanced Encryption Standard) cipher](https://fr.wikipedia.org/wiki/Advanced_Encryption_Standard)
+
 ---
 
 ### Legend
