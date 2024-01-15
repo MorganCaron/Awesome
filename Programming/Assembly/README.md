@@ -3,6 +3,7 @@
 [![Back to Parent Page](https://img.shields.io/badge/-Back_to_Parent_Page-blue?style=for-the-badge)](../README.md)
 
 ## General
+- [:star: :book: FelixCloutier ASM x86](https://www.felixcloutier.com/x86/)
 - [:star: :wrench: uiCA - The uops.info Code Analyzer](https://uica.uops.info)
 
 ---
