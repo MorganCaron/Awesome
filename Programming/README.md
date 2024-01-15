@@ -21,6 +21,7 @@
 - [:book: BSON (Binary JSON)](https://bsonspec.org)
 - [:book: Roadmap.sh](https://roadmap.sh)
 - [:wrench: EditorConfig](https://editorconfig.org)
+- [Programming Language Rankings](https://plrank.com)
 
 ## Challenges
 - [:star: :video_game: CodinGame](https://www.codingame.com/start)
