@@ -30,6 +30,7 @@
 - [Semantic UI](https://semantic-ui.com/)
 - [Angular Material](https://material.angular.io/)
 - [Material Design Lite](https://getmdl.io/)
+- [HTMX](https://htmx.org/)
 
 ## Web-app frameworks
 - [Angular](https://angular.io/)
