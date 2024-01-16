@@ -5,6 +5,7 @@
 
 ## General
 - [:book: Information Security](https://en.wikipedia.org/wiki/Information_security)
+- [CERT-FR Alertes de Sécurité](https://www.cert.ssi.gouv.fr)
 
 ## Password Managers
 - [:wrench: https://keepass.info](KeePass)
