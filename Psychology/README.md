@@ -11,6 +11,7 @@
 - [:book: Syllogism](https://en.wikipedia.org/wiki/Syllogism)
 - [:book: Apophenia](https://en.wikipedia.org/wiki/Apophenia)
 - [:book: Cherry picking](https://fr.wikipedia.org/wiki/Cherry_picking)
+- [:book: Tetris effect](https://fr.wikipedia.org/wiki/Effet_Tetris)
 
 ## Sophist
 - [:book: Sophisme](https://fr.wikipedia.org/wiki/Sophisme)
