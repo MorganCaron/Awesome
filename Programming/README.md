@@ -37,6 +37,8 @@
 - [:book: Bloatware](https://fr.wikipedia.org/wiki/Bloatware)
 - [:book: Principe de moindre surprise](https://fr.wikipedia.org/wiki/Principe_de_moindre_surprise)
 - [:book: Parser Combinator](https://en.wikipedia.org/wiki/Parser_combinator)
+- [:book: Parser Packrat](https://fr.m.wikipedia.org/wiki/Parser_packrat)
+- [:book: Earley Parser](https://en.wikipedia.org/wiki/Earley_parser)
 - [:book: Synthèse Concaténative](https://en.wikipedia.org/wiki/Concatenative_synthesis)
 - [:book: Side effect](https://en.wikipedia.org/wiki/Side_effect_(computer_science))
 - [:book: Self-documenting code](https://en.wikipedia.org/wiki/Self-documenting_code)
