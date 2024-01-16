@@ -4,6 +4,7 @@
 
 ## General
 - [:star: :book: FelixCloutier ASM x86](https://www.felixcloutier.com/x86/)
+- [:star: :book: x86 Instruction Listings](https://en.wikipedia.org/wiki/X86_instruction_listings)
 - [:star: :wrench: uiCA - The uops.info Code Analyzer](https://uica.uops.info)
 
 ---
