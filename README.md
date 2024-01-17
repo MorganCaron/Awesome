@@ -30,6 +30,7 @@
 	- [Algorithms](Programming/Algorithms/README.md)
 	- [API](Programming/API/README.md)
 	- [Artificial Intelligence](Programming/Artificial%20Intelligence/README.md)
+	- [Assembly](Programming/Assembly/README.md)
 	- [Build Tools](Programming/Build%20Tools/README.md)
 	- [C C++](Programming/C%20C++/README.md)
 	- [Git](Programming/Git/README.md)
