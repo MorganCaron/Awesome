@@ -27,6 +27,7 @@
 
 ### C
 - [C Internals](http://www.avabodh.com/cin/cin.html)
+- [learn-C.org](https://www.learn-c.org)
 
 ### C++
 - [C++, Qt, OpenGL, CUDA](http://guillaume.belz.free.fr/)
@@ -56,6 +57,7 @@
 - [:star: SFINAE](https://jonathanpoelen.github.io/2020/04/sfinae/)
 - [:star: :wrench: CppInsights](https://cppinsights.io)
 - [:wrench: Quick C++ benchmarks](https://quick-bench.com/)
+- [isocpp.org](https://isocpp.org)
 
 ---
 
