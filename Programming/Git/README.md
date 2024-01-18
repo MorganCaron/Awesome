@@ -11,6 +11,7 @@
 - [Gitlab](https://gitlab.com/)
 - [Bitbucket](https://bitbucket.org/product/)
 - [:star: :book: Oh Shit Git](https://ohshitgit.com/fr)
+- [:star: :book: Learn X in Y minutes - Git](https://learnxinyminutes.com/docs/fr-fr/git-fr/)
 
 ### Github
 - [:star: Github](https://github.com/)
