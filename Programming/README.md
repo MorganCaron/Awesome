@@ -86,6 +86,7 @@
 - [Algorithms](Algorithms/README.md)
 - [API](API/README.md)
 - [Artificial Intelligence](Artificial%20Intelligence/README.md)
+- [Assembly](Assembly/README.md)
 - [Build Tools](Build%20Tools/README.md)
 - [C C++](C%20C++/README.md)
 - [Git](Git/README.md)

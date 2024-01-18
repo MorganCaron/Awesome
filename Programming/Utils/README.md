@@ -13,6 +13,7 @@
 ### Regex
 - [:star: :wrench: Regex101](https://regex101.com/)
 - [:star: :wrench: AutoRegex](https://www.autoregex.xyz/)
+- [:star: :wrench: Regexr](https://regexr.com)
 - [:wrench: iHateRegex](https://ihateregex.io/)
 
 ---

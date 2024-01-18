@@ -15,6 +15,7 @@
 - [:book: Vigenère cipher](https://fr.wikipedia.org/wiki/Chiffre_de_Vigenère)
 - [:book: AES (Advanced Encryption Standard) cipher](https://fr.wikipedia.org/wiki/Advanced_Encryption_Standard)
 - [:book: SSS (Shamir's Secret Sharing)](https://fr.wikipedia.org/wiki/Partage_de_clé_secrète_de_Shamir)
+- [:book: Salt](https://en.wikipedia.org/wiki/Salt_(cryptography))
 
 ---
 
