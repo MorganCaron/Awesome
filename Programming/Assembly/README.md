@@ -14,6 +14,7 @@
 - [:star: :wrench: uiCA - The uops.info Code Analyzer](https://uica.uops.info)
 - [:wrench: x64dbg - x64/x32 debugger for windows](https://x64dbg.com)
 - [Flat Assembler](https://flatassembler.net)
+- [:book: MIPS Assembly Language](https://chortle.ccsu.edu/AssemblyTutorial/)
 
 ---
 
