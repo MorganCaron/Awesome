@@ -15,6 +15,7 @@
 - [:star: :wrench: AutoRegex](https://www.autoregex.xyz/)
 - [:star: :wrench: Regexr](https://regexr.com)
 - [:wrench: iHateRegex](https://ihateregex.io/)
+- [:video_game: Regex crossword](https://jimbly.github.io/regex-crossword/)
 
 ---
 
