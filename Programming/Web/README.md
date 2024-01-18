@@ -40,6 +40,9 @@
 - [Front-end](Front-end/README.md)
 - [Back-end](Back-end/README.md)
 
+## Game Dev
+- [:book: Mozilla Web Documentation: Games](https://developer.mozilla.org/fr/docs/Games)
+
 ---
 
 ### Legend

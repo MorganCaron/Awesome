@@ -5,7 +5,7 @@
 ## General
 - [:video_game: Leek Wars](https://leekwars.com/)
 - [:video_game: Screeps](https://screeps.com/)
-- [:star: Mozilla Web Documentations](https://developer.mozilla.org/fr/)
+- [:star: :book: Mozilla Web Documentations](https://developer.mozilla.org/fr/)
 - [:star: :book: Learn X in Y minutes](https://learnxinyminutes.com/)
 - [:star: Zeste de savoir](https://zestedesavoir.com/)
 - [:star: SirLynixVanFrietjes' Blog](https://sirlynixvanfrietjes.be/)
