@@ -58,6 +58,7 @@
 - [:star: :wrench: CppInsights](https://cppinsights.io)
 - [:wrench: Quick C++ benchmarks](https://quick-bench.com/)
 - [isocpp.org](https://isocpp.org)
+- [:star: wrench: Clang Format Configurator](https://clang-format-configurator.site)
 
 ---
 
