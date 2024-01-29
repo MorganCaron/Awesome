@@ -6,6 +6,11 @@
 - [:book: Convergence Instrumentale](https://fr.wikipedia.org/wiki/Convergence_instrumentale)
 - [:book: Maximiseur de trombones](https://fr.wikipedia.org/wiki/Convergence_instrumentale#Maximiseur_de_trombones)
 
+### Concepts
+- [:book: Fine-tuning](https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning))
+- [:book: Zero-shot learning](https://en.wikipedia.org/wiki/Zero-shot_learning)
+- [:book: One-shot learning](https://en.wikipedia.org/wiki/One-shot_learning_(computer_vision))
+
 ### Artificial Neural Network
 - [:star: :book: Double Zoom - Les algorithmes génétiques](http://doublezoom.free.fr/programmation/AG_Principe.php)
 - [:star: :movie_camera: Hugo Larochelle](https://www.youtube.com/user/hugolarochelle/playlists)
