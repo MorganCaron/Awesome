@@ -19,6 +19,7 @@
 - [:wrench: Inno Setup](https://jrsoftware.org/isinfo.php)
 - [:star: Software disenchantment](https://tonsky.me/blog/disenchantment/)
 - [:book: BSON (Binary JSON)](https://bsonspec.org)
+- [JSON5](https://json5.org)
 - [:book: Roadmap.sh](https://roadmap.sh)
 - [:wrench: EditorConfig](https://editorconfig.org)
 - [Programming Language Rankings](https://plrank.com)
