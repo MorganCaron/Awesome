@@ -3,8 +3,9 @@
 [![Back to Parent Page](https://img.shields.io/badge/-Back_to_Parent_Page-blue?style=for-the-badge)](../README.md)
 
 ## General
-- [GeoGebra](https://www.geogebra.org/)
-- [Euclidea](https://www.euclidea.xyz/)
+- [:wrench: GeoGebra](https://www.geogebra.org/)
+- [:wrench: Euclidea](https://www.euclidea.xyz/)
+- [:book: Diagramme de Voronoï](https://fr.wikipedia.org/wiki/Diagramme_de_Vorono%C3%AF)
 
 ### Trigonometry
 - [:star: :book: Sinus & Cosinus](https://wordsandbuttons.online/sine_and_cosine.html)
