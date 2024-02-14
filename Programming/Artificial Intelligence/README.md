@@ -19,6 +19,10 @@
 
 ### Conversational Agent
 
+#### Local LLM
+- [LM Studio](https://lmstudio.ai/)
+- [NVidia - Chat with RTX](https://www.nvidia.com/en-us/ai-on-rtx/chat-with-rtx-generative-ai/)
+
 #### ChatGPT
 - [:star: :wrench: ChatGPT](https://chat.openai.com/chat)
 - [:book: ChatGPT Dan Jailbreak](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516)
