@@ -20,6 +20,9 @@
 ### Cryptography
 - [:book: Proof of work](https://en.wikipedia.org/wiki/Proof_of_work)
 
+### Compression
+- [:book: Huffman coding](https://en.wikipedia.org/wiki/Huffman_coding)
+
 ---
 
 ### Legend
