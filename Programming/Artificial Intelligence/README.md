@@ -48,6 +48,9 @@
 - [:star: :wrench: Easy Diffusion - Stable Diffusion UI](https://github.com/cmdr2/stable-diffusion-ui)
 - [:star: :book: Textual Diffusion](https://textual-inversion.github.io/)
 
+### Video Generation
+- [:star: :wrench: OpenAI Sora](https://openai.com/sora)
+
 #### Models
 - [:star: :wrench: CivitAi - Stable Diffusion Models](https://civitai.com)
 
