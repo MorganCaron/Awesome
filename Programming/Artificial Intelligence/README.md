@@ -17,6 +17,10 @@
 - [Elements of AI](https://course.elementsofai.com/)
 - [:star: LUIS - Microsoft Language Understanding](https://www.luis.ai/)
 
+### Cloud Hosting
+
+- [Replicate](https://replicate.com)
+
 ### Conversational Agent
 
 #### Local LLM
