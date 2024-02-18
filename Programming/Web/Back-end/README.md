@@ -10,9 +10,18 @@
 ## Database
 - [:star: AirTable](https://airtable.com/)
 
-## ORM
+## TypeScript
+
+### ORM
 - [:star: Sequelize](https://sequelize.org)
+
+## PHP
+
+### ORM
 - [Doctrine](https://www.doctrine-project.org)
+
+### Template Engine
+- [Twig](https://twig.symfony.com)
 
 ---
 
