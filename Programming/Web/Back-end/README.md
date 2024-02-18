@@ -10,6 +10,10 @@
 ## Database
 - [:star: AirTable](https://airtable.com/)
 
+## ORM
+- [:star: Sequelize](https://sequelize.org)
+- [Doctrine](https://www.doctrine-project.org)
+
 ---
 
 ### Legend
