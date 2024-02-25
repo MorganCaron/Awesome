@@ -48,6 +48,7 @@
 - [:book: Currying](https://en.wikipedia.org/wiki/Currying)
 - [:book: Memoization](https://en.wikipedia.org/wiki/Memoization)
 - [:book: Virtualization](https://en.wikipedia.org/wiki/Virtualization)
+- [:book: Context-free grammar](https://en.wikipedia.org/wiki/Context-free_grammar)
 
 ### Protocols
 - [:book: RFC](https://fr.wikipedia.org/wiki/Request_for_comments)
