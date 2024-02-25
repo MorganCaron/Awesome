@@ -5,6 +5,7 @@
 ## General
 - [:book: Convergence Instrumentale](https://fr.wikipedia.org/wiki/Convergence_instrumentale)
 - [:book: Maximiseur de trombones](https://fr.wikipedia.org/wiki/Convergence_instrumentale#Maximiseur_de_trombones)
+- [:wrench: Poe](https://poe.com/)
 
 ### Concepts
 - [:book: Fine-tuning](https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning))
