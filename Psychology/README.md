@@ -12,6 +12,7 @@
 - [:book: Apophenia](https://en.wikipedia.org/wiki/Apophenia)
 - [:book: Cherry picking](https://fr.wikipedia.org/wiki/Cherry_picking)
 - [:book: Tetris effect](https://fr.wikipedia.org/wiki/Effet_Tetris)
+- [:book: Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 
 ## Sophist
 - [:book: Sophisme](https://fr.wikipedia.org/wiki/Sophisme)
