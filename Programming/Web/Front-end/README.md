@@ -31,6 +31,10 @@
 - [Angular Material](https://material.angular.io/)
 - [Material Design Lite](https://getmdl.io/)
 - [HTMX](https://htmx.org/)
+- [Shadcn/ui](https://ui.shadcn.com)
+- [Chakra UI](https://chakra-ui.com)
+- [Radix UI](https://www.radix-ui.com)
+- [:star: Aceternity UI](https://ui.aceternity.com)
 
 ## Web-app frameworks
 - [Angular](https://angular.io/)
@@ -49,6 +53,7 @@
 ## 2D graphic frameworks
 - [Pixi.js](https://www.pixijs.com/)
 - [D3.js](https://d3js.org/)
+- [tsParticles](https://particles.js.org)
 
 ## 3D graphic frameworks
 - [:star: Three.js](https://threejs.org/)
