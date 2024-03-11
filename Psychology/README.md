@@ -18,6 +18,7 @@
 - [:book: Sophisme](https://fr.wikipedia.org/wiki/Sophisme)
 - [:book: Principle of explosion](https://en.wikipedia.org/wiki/Principle_of_explosion)
 - [:book: Sophisme du tireur d'élite texan](https://fr.wikipedia.org/wiki/Sophisme_du_tireur_d%27%C3%A9lite_texan)
+- [:book: Sophisme de la cause unique](https://fr.wikipedia.org/wiki/Sophisme_de_la_cause_unique)
 
 ## Cognitive Bias
 - [:book: Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
@@ -30,6 +31,7 @@
 - [:book: Mandela Effect (False memory)](https://en.wikipedia.org/wiki/False_memory)
 - [:book: Plan continuation bias (Biais du coût irrécupérable)](https://en.wikipedia.org/wiki/Sunk_cost)
 - [:book: Selection bias](https://en.wikipedia.org/wiki/Selection_bias)
+- [:book: Biais d'attribution](https://fr.wikipedia.org/wiki/Biais_d%27attribution)
 
 ## Principles
 - [:book: Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
