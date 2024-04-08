@@ -23,6 +23,7 @@
 - [:book: Roadmap.sh](https://roadmap.sh)
 - [:wrench: EditorConfig](https://editorconfig.org)
 - [Programming Language Rankings](https://plrank.com)
+- [:star: :book: VIM Cheatsheet](https://vim.rtorr.com)
 
 ## Challenges
 - [:star: :video_game: CodinGame](https://www.codingame.com/start)
