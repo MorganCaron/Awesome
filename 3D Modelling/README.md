@@ -13,6 +13,7 @@
 - [Texture Haven](https://texturehaven.com/textures/)
 - [Poly Haven](https://polyhaven.com/textures)
 - [3D Textures](https://3dtextures.me)
+- [Skybox AI](https://skybox.blockadelabs.com/)
 
 ## Models
 - [:star: MakeHuman](http://www.makehumancommunity.org/)
