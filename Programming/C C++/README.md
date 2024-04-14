@@ -9,6 +9,7 @@
 - [CppFront](https://github.com/hsutter/cppfront)
 - [:star: Github.dev](https://github.dev/)
 - [:star: :wrench: Demangler](http://demangler.com)
+- [:star: :book: Microsoft Visual C++ versions](https://www.wikiwand.com/en/Microsoft_Visual_C++)
 
 ### Online Compilers
 - [:star: Godbolt Compiler Explorer](https://godbolt.org/z/Me11KdK1K)
