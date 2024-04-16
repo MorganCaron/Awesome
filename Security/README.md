@@ -21,6 +21,7 @@
 ## Vulnérabilités
 - [:book: Injection SQL](https://fr.wikipedia.org/wiki/Injection_SQL)
 - [:book: Faille XSS](https://fr.wikipedia.org/wiki/Cross-site_scripting)
+- [:book: Single point of failure (SPOF)](https://fr.wikipedia.org/wiki/Point_de_d%C3%A9faillance_unique)
 
 ---
 
