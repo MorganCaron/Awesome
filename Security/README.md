@@ -18,6 +18,10 @@
 - [:book: Salt](https://en.wikipedia.org/wiki/Salt_(cryptography))
 - [:video_game: Cryptohack](https://cryptohack.org)
 
+## Vulnérabilités
+- [:book: Injection SQL](https://fr.wikipedia.org/wiki/Injection_SQL)
+- [:book: Faille XSS](https://fr.wikipedia.org/wiki/Cross-site_scripting)
+
 ---
 
 ### Legend
