@@ -32,6 +32,7 @@
 - [:book: Plan continuation bias (Biais du coût irrécupérable)](https://en.wikipedia.org/wiki/Sunk_cost)
 - [:book: Selection bias](https://en.wikipedia.org/wiki/Selection_bias)
 - [:book: Biais d'attribution](https://fr.wikipedia.org/wiki/Biais_d%27attribution)
+- [:book: Syndrome de Panurge](https://fr.wikipedia.org/wiki/Mouton_de_Panurge_(locution))
 
 ## Principles
 - [:book: Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
