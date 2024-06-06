@@ -14,6 +14,7 @@
 
 ### ORM
 - [:star: Sequelize](https://sequelize.org)
+- [Drizzle](https://orm.drizzle.team)
 
 ## PHP
 
