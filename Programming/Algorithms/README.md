@@ -23,6 +23,9 @@
 ### Compression
 - [:book: Huffman coding](https://en.wikipedia.org/wiki/Huffman_coding)
 
+### Complexity
+- [:book: Exponentiation rapide](https://fr.wikipedia.org/wiki/Exponentiation_rapide)
+
 ---
 
 ### Legend
