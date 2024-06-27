@@ -33,6 +33,7 @@
 - [Domain Squatting](https://fr.wikipedia.org/wiki/Cybersquattage)
 - [Zero day](https://en.wikipedia.org/wiki/Zero-day_(computing))
 - [Obfuscation](https://en.wikipedia.org/wiki/Obfuscation_(software))
+- [Air gap](https://fr.wikipedia.org/wiki/Air_gap)
 
 ## Password Managers
 - [:wrench: https://keepass.info](KeePass)
