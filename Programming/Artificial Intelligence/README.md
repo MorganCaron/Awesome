@@ -59,6 +59,9 @@
 ### Video Generation
 - [:star: :wrench: OpenAI Sora](https://openai.com/sora)
 
+### Music Generation
+- [:star: :wrench: Suno](https://suno.com/)
+
 #### Models
 - [:star: :wrench: CivitAi - Stable Diffusion Models](https://civitai.com)
 
