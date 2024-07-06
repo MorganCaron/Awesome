@@ -128,6 +128,9 @@
 ### WebAssembly
 - [:book: MDN WebAssembly](https://developer.mozilla.org/fr/docs/WebAssembly)
 
+### Compilers
+- [:star: PlantUML](https://plantuml.com/fr/)
+
 ## Utils
 - [:wrench: caniuse.com](https://caniuse.com/)
 - [:wrench: caniemail.com](https://www.caniemail.com/)
