@@ -145,7 +145,6 @@
 - [:wrench: Syncope](https://nowodzinski.pl/syncope/)
 - [Front-End Checklist](https://frontendchecklist.io/)
 - [:wrench: Animista](http://animista.net/)
-- [:wrench: Polyfill.io](https://polyfill.io/)
 - [:star: Google Pagespeed Insights](http://developers.google.com/speed/pagespeed/insights/)
 - [:wrench: Google Test Mobile Friendly](https://search.google.com/test/mobile-friendly)
 - [:wrench: Google E-Mail Markup Tester](https://www.google.com/webmasters/markup-tester/)
