@@ -25,6 +25,7 @@
 
 ### Complexity
 - [:book: Exponentiation rapide](https://fr.wikipedia.org/wiki/Exponentiation_rapide)
+- [:book: Problème du voyageur de commerce](https://fr.wikipedia.org/wiki/Problème_du_voyageur_de_commerce)
 
 ---
 
