@@ -84,6 +84,7 @@
 
 #### UI/UX
 - [:book: A/B Testing](https://en.wikipedia.org/wiki/A/B_testing)
+- [Game UI Database](https://www.gameuidatabase.com)
 
 ## Specializations
 - [Algorithms](Algorithms/README.md)
