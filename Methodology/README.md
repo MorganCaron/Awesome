@@ -9,6 +9,7 @@
 - [:book: Kanban](https://en.wikipedia.org/wiki/Kanban)
 - [:book: No Estimates](https://blog.cellenza.com/software-craftsmanship/estimer-sans-estimer/)
 - [:wrench: Obsidian](https://obsidian.md)
+- [:book: Analysis paralysis](https://en.wikipedia.org/wiki/Analysis_paralysis)
 
 ## Business
 - [:book: Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas)
