@@ -32,6 +32,8 @@
 - [:star: :wrench: yt-dlp: Audio/Video Downloader](https://github.com/yt-dlp/yt-dlp)
 - [:wrench: FiligraneFacile](https://filigrane.beta.gouv.fr/)
 - [:wrench: CyberChef](https://gchq.github.io/CyberChef/)
+- [:star: :wrench: BonPatron](https://bonpatron.com/fr/)
+- [:star: :wrench: LanguageTool: Correcteur d'orthographe](https://languagetool.org/fr)
 
 ## Remote Desktop
 - [:star: :wrench: Google Remote Desktop](https://remotedesktop.google.com/)
