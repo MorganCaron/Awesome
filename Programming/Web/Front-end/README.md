@@ -59,6 +59,9 @@
 - [:star: Three.js](https://threejs.org/)
 - [:star: Babylon.js](https://www.babylonjs.com/)
 
+## 2D physics engine
+- [MatterJS](https://brm.io/matter-js/)
+
 ## Animations frameworks
 - [Anime.js](https://animejs.com/)
 - [ScrollMagic](https://scrollmagic.io/)
