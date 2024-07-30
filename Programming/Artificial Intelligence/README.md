@@ -62,6 +62,9 @@
 ### Music Generation
 - [:star: :wrench: Suno](https://suno.com/)
 
+### Voice Generation
+- [:wrench: ElevenLabs](https://elevenlabs.io)
+
 #### Models
 - [:star: :wrench: CivitAi - Stable Diffusion Models](https://civitai.com)
 
