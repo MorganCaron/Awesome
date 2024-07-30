@@ -20,6 +20,7 @@
 - [:star: :wrench: Dafont](https://www.dafont.com/)
 - [:wrench: WhatTheFont](https://www.myfonts.com/WhatTheFont/)
 - [:wrench: WhatFontIs](https://www.whatfontis.com/)
+- [:wrench: Nerd Fonts](https://www.nerdfonts.com)
 
 ## Drivers
 - [:star: :wrench: Intel Drivers Detector](https://www.intel.fr/content/www/fr/fr/support/detect.html)
