@@ -35,6 +35,7 @@
 	- [Git](Programming/Git/README.md)
 	- [IDE](Programming/IDE/README.md)
 	- [Python](Programming/Python/README.md)
+	- [Rust](Programming/Rust/README.md)
 	- [Shell](Programming/Shell/README.md)
 	- [Utils](Programming/Utils/README.md)
 	- [Web](Programming/Web/README.md)

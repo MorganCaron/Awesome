@@ -11,3 +11,14 @@
 - [oh-my-zsh](https://ohmyz.sh)
 - [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - [:star: Starship](https://starship.rs)
+
+---
+
+### Legend
+:star: : Favorite\
+:book: : Documentation/Cheatsheet\
+:movie_camera: : Video\
+:video_game: : Gamification\
+:wrench: : Utility
+
+---

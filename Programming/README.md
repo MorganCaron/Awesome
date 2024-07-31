@@ -98,6 +98,7 @@
 - [Git](Git/README.md)
 - [IDE](IDE/README.md)
 - [Python](Python/README.md)
+- [Rust](Rust/README.md)
 - [Shell](Shell/README.md)
 - [Utils](Utils/README.md)
 - [Web](Web/README.md)
