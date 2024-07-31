@@ -34,6 +34,8 @@
 	- [C C++](Programming/C%20C++/README.md)
 	- [Git](Programming/Git/README.md)
 	- [IDE](Programming/IDE/README.md)
+	- [Python](Programming/Python/README.md)
+	- [Shell](Programming/Shell/README.md)
 	- [Utils](Programming/Utils/README.md)
 	- [Web](Programming/Web/README.md)
 - **[Psychology](Psychology/README.md)**

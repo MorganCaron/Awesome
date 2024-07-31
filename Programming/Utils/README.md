@@ -8,7 +8,6 @@
 - [Figma](https://www.figma.com/)
 - [Grafana](https://grafana.com/)
 - [:star: Tiobe Index](https://www.tiobe.com/tiobe-index/)
-- [Explain Shell](https://explainshell.com/)
 
 ### Regex
 - [:star: :wrench: Regex101](https://regex101.com/)

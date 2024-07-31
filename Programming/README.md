@@ -97,6 +97,8 @@
 - [C C++](C%20C++/README.md)
 - [Git](Git/README.md)
 - [IDE](IDE/README.md)
+- [Python](Python/README.md)
+- [Shell](Shell/README.md)
 - [Utils](Utils/README.md)
 - [Web](Web/README.md)
 
