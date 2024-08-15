@@ -33,6 +33,7 @@
 - [:book: Selection bias](https://en.wikipedia.org/wiki/Selection_bias)
 - [:book: Biais d'attribution](https://fr.wikipedia.org/wiki/Biais_d%27attribution)
 - [:book: Syndrome de Panurge](https://fr.wikipedia.org/wiki/Mouton_de_Panurge_(locution))
+- [:book: Psychologie de la forme (Théorie de la Gestalt)](https://fr.wikipedia.org/wiki/Psychologie_de_la_forme)
 
 ## Principles
 - [:book: Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
