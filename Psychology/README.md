@@ -47,6 +47,7 @@
 - [:book: Bystander effect](https://en.wikipedia.org/wiki/Bystander_effect)
 - [:book: Spotlight effect](https://en.wikipedia.org/wiki/Spotlight_effect)
 - [:book: Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle)
+- [:book: Münchhausen trilemma](https://en.wikipedia.org/wiki/M%C3%BCnchhausen_trilemma)
 
 ## Razors
 - [:star: :book: Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
