@@ -62,6 +62,10 @@
 - [isocpp.org](https://isocpp.org)
 - [:star: wrench: Clang Format Configurator](https://clang-format-configurator.site)
 
+### Game Engines
+- [Unreal Engine](https://www.unrealengine.com/)
+- [Wicked Engine](https://wickedengine.net)
+
 ---
 
 ### Legend
