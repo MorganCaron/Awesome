@@ -25,6 +25,10 @@
 - [Programming Language Rankings](https://plrank.com)
 - [:star: :book: VIM Cheatsheet](https://vim.rtorr.com)
 
+## Languages
+- [https://ziglang.org](Zig)
+- [https://c3-lang.org](C3)
+
 ## Challenges
 - [:star: :video_game: CodinGame](https://www.codingame.com/start)
 - [:star: :video_game: CodeWars](https://www.codewars.com/)
