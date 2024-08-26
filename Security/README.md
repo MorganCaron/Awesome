@@ -25,6 +25,7 @@
 - [Wireshark](https://www.wireshark.org/)
 - [Meltdown & Spectre](https://beta.hackndo.com/meltdown-spectre/)
 - [Cybermap Kaspersky](https://cybermap.kaspersky.com/fr)
+- [:book: Fichier EICAR](https://fr.wikipedia.org/wiki/Fichier_de_test_Eicar)
 
 ## Concepts
 - [Security through obscurity](https://en.wikipedia.org/wiki/Security_through_obscurity)
