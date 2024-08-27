@@ -13,6 +13,9 @@
 ### Boolean logic
 - [:book: Table de Karnaugh](https://fr.wikipedia.org/wiki/Table_de_Karnaugh)
 
+## Statistics
+- [:book: Série temporelle](https://fr.wikipedia.org/wiki/S%C3%A9rie_temporelle)
+
 ---
 
 ### Legend
