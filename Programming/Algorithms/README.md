@@ -26,6 +26,7 @@
 ### Complexity
 - [:book: Exponentiation rapide](https://fr.wikipedia.org/wiki/Exponentiation_rapide)
 - [:book: Problème du voyageur de commerce](https://fr.wikipedia.org/wiki/Problème_du_voyageur_de_commerce)
+- [:book: Problème de l'arrêt](https://fr.wikipedia.org/wiki/Probl%C3%A8me_de_l'arr%C3%AAt)
 
 ### Tree
 - [:book: B-Tree](https://fr.wikipedia.org/wiki/Arbre_B)
