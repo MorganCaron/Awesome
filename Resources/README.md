@@ -10,6 +10,7 @@
 
 ### SoundBanks
 - [Google Sound Library](https://developers.google.com/assistant/tools/sound-library/)
+- [Musiques libres de droit](https://incompetech.com/music/royalty-free/music.html)
 
 ## Images
 - [:star: :wrench: Remove Background](https://www.remove.bg/)
