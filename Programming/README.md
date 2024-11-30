@@ -55,6 +55,7 @@
 - [:book: Virtualization](https://en.wikipedia.org/wiki/Virtualization)
 - [:book: Context-free grammar](https://en.wikipedia.org/wiki/Context-free_grammar)
 - [:wrench: Exposed float](https://float.exposed/)
+- [:star: :book: Semantic Versioning](https://semver.org)
 
 ### Protocols
 - [:book: RFC](https://fr.wikipedia.org/wiki/Request_for_comments)
