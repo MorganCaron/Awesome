@@ -11,6 +11,10 @@
 - [:wrench: Obsidian](https://obsidian.md)
 - [:book: Analysis paralysis](https://en.wikipedia.org/wiki/Analysis_paralysis)
 
+## Tools
+- [:star: Obsidian](https://obsidian.md)
+- [Notion](https://www.notion.com/)
+
 ## Business
 - [:book: Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas)
 
