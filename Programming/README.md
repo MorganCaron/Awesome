@@ -56,6 +56,7 @@
 - [:book: Context-free grammar](https://en.wikipedia.org/wiki/Context-free_grammar)
 - [:wrench: Exposed float](https://float.exposed/)
 - [:star: :book: Semantic Versioning](https://semver.org)
+- [:book: Keep a Changelog](https://keepachangelog.com)
 
 ### Protocols
 - [:book: RFC](https://fr.wikipedia.org/wiki/Request_for_comments)
