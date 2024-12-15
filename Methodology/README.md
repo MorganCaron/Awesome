@@ -24,6 +24,7 @@
 - [:star: Don't ask to ask](https://dontasktoask.com)
 - [:star: Don't ask to ask (FR)](https://dontasktoask.com/fr/)
 - [:star: How to ask](https://stackoverflow.com/help/how-to-ask)
+- [:book: XY Problem](https://fr.wikipedia.org/wiki/Probl%C3%A8me_XY)
 - [:star: The XY Problem](http://xyproblem.info/)
 - [:star: :book: Bus factor](https://en.wikipedia.org/wiki/Bus_factor)
 - [:star: :book: Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
