@@ -19,6 +19,7 @@
 - [:book: Principle of explosion](https://en.wikipedia.org/wiki/Principle_of_explosion)
 - [:book: Sophisme du tireur d'élite texan](https://fr.wikipedia.org/wiki/Sophisme_du_tireur_d%27%C3%A9lite_texan)
 - [:book: Sophisme de la cause unique](https://fr.wikipedia.org/wiki/Sophisme_de_la_cause_unique)
+- [:book: Sophisme du vrai Ecossais](https://fr.wikipedia.org/wiki/Sophisme_du_vrai_%C3%89cossais)
 
 ## Cognitive Bias
 - [:book: Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
