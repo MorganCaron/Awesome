@@ -54,6 +54,7 @@
 - [Pixi.js](https://www.pixijs.com/)
 - [D3.js](https://d3js.org/)
 - [tsParticles](https://particles.js.org)
+- [:star: Mermaid](https://mermaid.js.org/)
 
 ## 3D graphic frameworks
 - [:star: Three.js](https://threejs.org/)
