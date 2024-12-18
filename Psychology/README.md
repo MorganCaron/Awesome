@@ -20,6 +20,16 @@
 - [:book: Sophisme du tireur d'élite texan](https://fr.wikipedia.org/wiki/Sophisme_du_tireur_d%27%C3%A9lite_texan)
 - [:book: Sophisme de la cause unique](https://fr.wikipedia.org/wiki/Sophisme_de_la_cause_unique)
 - [:book: Sophisme du vrai Ecossais](https://fr.wikipedia.org/wiki/Sophisme_du_vrai_%C3%89cossais)
+- [:book: Sophisme de composition](https://fr.wikipedia.org/wiki/Sophisme_de_composition)
+- [:book: Sophisme par association](https://fr.wikipedia.org/wiki/Sophisme_par_association)
+- [:book: Sophisme du juste milieu](https://fr.wikipedia.org/wiki/Sophisme_du_juste_milieu)
+- [:book: Sophisme du silence](https://fr.wikipedia.org/wiki/Argumentum_a_silentio)
+- [:book: Sophisme de la cause unique](https://fr.wikipedia.org/wiki/Sophisme_de_la_cause_unique)
+- [:book: Argumentum ad nauseam](https://fr.wikipedia.org/wiki/Argumentum_ad_nauseam)
+- [:book: Affirmation du conséquent](https://fr.wikipedia.org/wiki/Affirmation_du_cons%C3%A9quent)
+- [:book: Affirmation d'une disjonction](https://fr.wikipedia.org/wiki/Affirmation_d%27une_disjonction)
+- [:book: Inversion de la charge de la preuve](https://fr.wikipedia.org/wiki/Inversion_de_la_charge_de_la_preuve)
+- [:book: Fausse équivalence](https://fr.wikipedia.org/wiki/Fausse_%C3%A9quivalence)
 
 ## Cognitive Bias
 - [:book: Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
@@ -35,6 +45,8 @@
 - [:book: Biais d'attribution](https://fr.wikipedia.org/wiki/Biais_d%27attribution)
 - [:book: Syndrome de Panurge](https://fr.wikipedia.org/wiki/Mouton_de_Panurge_(locution))
 - [:book: Psychologie de la forme (Théorie de la Gestalt)](https://fr.wikipedia.org/wiki/Psychologie_de_la_forme)
+- [:book: Faux équilibre](https://fr.wikipedia.org/wiki/Faux_%C3%A9quilibre)
+- [:book: Faux dilemme](https://fr.wikipedia.org/wiki/Faux_dilemme)
 
 ## Principles
 - [:book: Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
