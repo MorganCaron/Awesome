@@ -47,6 +47,8 @@
 - [:book: Psychologie de la forme (Théorie de la Gestalt)](https://fr.wikipedia.org/wiki/Psychologie_de_la_forme)
 - [:book: Faux équilibre](https://fr.wikipedia.org/wiki/Faux_%C3%A9quilibre)
 - [:book: Faux dilemme](https://fr.wikipedia.org/wiki/Faux_dilemme)
+- [:book: Biais de confirmation](https://fr.wikipedia.org/wiki/Biais_de_confirmation)
+- [:book: Biais de disponibilité](https://fr.wikipedia.org/wiki/Heuristique_de_disponibilit%C3%A9)
 
 ## Principles
 - [:book: Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
