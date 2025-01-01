@@ -31,6 +31,7 @@
 - [:book: Inversion de la charge de la preuve](https://fr.wikipedia.org/wiki/Inversion_de_la_charge_de_la_preuve)
 - [:book: Fausse équivalence](https://fr.wikipedia.org/wiki/Fausse_%C3%A9quivalence)
 - [:book: Sophisme du procès d'intention](https://fr.wikipedia.org/wiki/Proc%C3%A8s_d%27intention)
+- [:book: Sophisme du Whataboutism](https://fr.wikipedia.org/wiki/Whataboutism)
 
 ## Cognitive Bias
 - [:book: Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
