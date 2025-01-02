@@ -51,6 +51,7 @@
 - [:book: Faux dilemme](https://fr.wikipedia.org/wiki/Faux_dilemme)
 - [:book: Biais de confirmation](https://fr.wikipedia.org/wiki/Biais_de_confirmation)
 - [:book: Biais de disponibilité](https://fr.wikipedia.org/wiki/Heuristique_de_disponibilit%C3%A9)
+- [:book: Biais de normalité](https://fr.wikipedia.org/wiki/Biais_de_normalit%C3%A9)
 
 ## Principles
 - [:book: Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
