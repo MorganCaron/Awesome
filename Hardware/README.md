@@ -27,6 +27,11 @@
 - [:star: :video_game: TypeRacer](https://play.typeracer.com)
 - [RataType](https://www.ratatype.fr)
 
+## Bootable USB drive
+- [:wrench: Rufus](https://rufus.ie/)
+- [:wrench: Balena](https://etcher.balena.io/)
+- [:star: :wrench: Ventoy](https://www.ventoy.net/)
+
 ---
 
 ### Legend
