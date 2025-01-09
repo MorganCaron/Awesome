@@ -33,6 +33,7 @@
 - [:book: Sophisme du procès d'intention](https://fr.wikipedia.org/wiki/Proc%C3%A8s_d%27intention)
 - [:book: Sophisme du Whataboutism](https://fr.wikipedia.org/wiki/Whataboutism)
 - [:book: Sophisme de la pente glissante](https://fr.wikipedia.org/wiki/Pente_savonneuse)
+- [:book: Sophisme de l'appel à l'ignorance](https://fr.wikipedia.org/wiki/Appel_à_l%27ignorance)
 
 ## Cognitive Bias
 - [:book: Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
