@@ -27,6 +27,7 @@
 #### Local LLM
 - [LM Studio](https://lmstudio.ai/)
 - [NVidia - Chat with RTX](https://www.nvidia.com/en-us/ai-on-rtx/chat-with-rtx-generative-ai/)
+- [Ollama](https://ollama.com)
 
 #### Gemini
 - [:star: :wrench: Gemini](https://gemini.google.com/app)
