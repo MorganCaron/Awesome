@@ -6,6 +6,7 @@
 - [ZSH](https://www.zsh.org)
 - [:star: Nushell](https://www.nushell.sh)
 - [:wrench: Explain Shell](https://explainshell.com/)
+- [Rio](https://raphamorim.io/rio/)
 
 ### Prompt
 - [oh-my-zsh](https://ohmyz.sh)
