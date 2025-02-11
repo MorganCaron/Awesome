@@ -42,6 +42,9 @@
 #### Llama
 - [:star: :wrench: Llama](https://ai.meta.com/llama/)
 
+#### Mistral
+- [:star: :wrench: Mistral](https://chat.mistral.ai/chat)
+
 #### AgentGPT
 - [:star: :wrench: Demo AgentGPT](https://agentgpt.reworkd.ai)
 - [Github AgentGPT](https://github.com/reworkd/AgentGPT)
