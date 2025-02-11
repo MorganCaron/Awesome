@@ -16,6 +16,7 @@
 
 ## Statistics
 - [:book: Série temporelle](https://fr.wikipedia.org/wiki/S%C3%A9rie_temporelle)
+- [:book: Loi de Benford](https://fr.wikipedia.org/wiki/Loi_de_Benford)
 
 ---
 
