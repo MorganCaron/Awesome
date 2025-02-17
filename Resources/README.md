@@ -2,6 +2,9 @@
 
 [![Back to Parent Page](https://img.shields.io/badge/-Back_to_Parent_Page-blue?style=for-the-badge)](../README.md)
 
+## Web crawl data
+- [Common Crawl](https://commoncrawl.org)
+
 ## Icons
 - [Iconscout](https://iconscout.com/unicons/explore/line)
 
