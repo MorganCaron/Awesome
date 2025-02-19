@@ -8,6 +8,7 @@
 - [Figma](https://www.figma.com/)
 - [Grafana](https://grafana.com/)
 - [:star: Tiobe Index](https://www.tiobe.com/tiobe-index/)
+- [:star: Programming Language Rankings](https://plrank.com)
 
 ### Regex
 - [:star: :wrench: Regex101](https://regex101.com/)
