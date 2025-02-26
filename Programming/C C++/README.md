@@ -26,6 +26,7 @@
 - [WinLibs: GCC & MinGW-w64 for Windows](http://winlibs.com/)
 - [Assimp](https://www.assimp.org/)
 - [nlohmann/json](https://github.com/nlohmann/json)
+- [:star: SDL3 examples](https://examples.libsdl.org/SDL3/)
 
 ### C
 - [C Internals](http://www.avabodh.com/cin/cin.html)
