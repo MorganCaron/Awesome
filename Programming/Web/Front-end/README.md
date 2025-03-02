@@ -49,6 +49,7 @@
 - [Font Awesome](https://fontawesome.com/)
 - [Line Awesome](https://icons8.com/line-awesome)
 - [Icofont](https://icofont.com/icons)
+- [Lucide Icons](https://lucide.dev/)
 
 ## 2D graphic frameworks
 - [Pixi.js](https://www.pixijs.com/)
