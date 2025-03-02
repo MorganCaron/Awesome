@@ -18,8 +18,15 @@
 
 ## PHP
 
+### Frameworks
+- [CakePHP](https://cakephp.org)
+- [CodeIgniter](https://codeigniter.com)
+- [Laravel](https://laravel.com)
+- [Symfony](https://symfony.com)
+
 ### ORM
 - [Doctrine](https://www.doctrine-project.org)
+- [Eloquent (for Laravel)](https://laravel.com/docs/12.x/eloquent)
 
 ### Template Engine
 - [Twig](https://twig.symfony.com)
