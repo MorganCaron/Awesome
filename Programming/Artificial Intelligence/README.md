@@ -60,6 +60,7 @@
 - [:star: :wrench: Stable Diffusion - Prompt Helper](https://www.stable-diffusion-france.fr/prompt-helper.php)
 - [:star: :wrench: Easy Diffusion - Stable Diffusion UI](https://github.com/cmdr2/stable-diffusion-ui)
 - [:star: :book: Textual Diffusion](https://textual-inversion.github.io/)
+- [:wrench: supawork.ai - LinkedIn photo generator](https://supawork.ai/fr/ai-linkedIn-photo-generator)
 
 ### Video Generation
 - [:star: :wrench: OpenAI Sora](https://openai.com/sora)
