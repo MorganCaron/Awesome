@@ -2,22 +2,30 @@
 
 [![Back to Parent Page](https://img.shields.io/badge/-Back_to_Parent_Page-blue?style=for-the-badge)](../README.md)
 
-## Tips
-
-### CSS
+## CSS
 - [:star: :book: Google - Performant Parallaxing](https://developer.chrome.com/blog/performant-parallaxing/)
+- [MarkSheet](https://marksheet.io/)
+- [:star: :book: The 30 CSS Selectors you must memorize](https://code.tutsplus.com/fr/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+- [JavaScript.info - The Modern JavaScript Tutorial](https://javascript.info/)
+- [:wrench: Unjquerify](https://www.unjquerify.com/)
+- [De jQuery à VanillaJs](https://putaindecode.io/articles/de-jquery-a-vanillajs/)
+- [Interneting is Hard](https://www.internetingishard.com/)
+- [:star: Mise en cache CSS/JS](https://blog.smarchal.com/mise-en-cache-js-css)
 - [:star: Grainy Gradients](https://css-tricks.com/grainy-gradients/)
 - [:star: Grainy Gradient playground](https://grainy-gradients.vercel.app)
 
-### UX
+## UX
 - [:video_game: How I experience web today](https://how-i-experience-web-today.com)
+
+## Themes
+- [ThemeForest - WordPress Themes & Website Templates](https://themeforest.net)
 
 ## Language documentations
 - [:star: :book: Mozilla Documentation](https://developer.mozilla.org/fr/docs/Web)
 - [HtmlReference.io](https://htmlreference.io)
 - [CssReference.io](https://cssreference.io)
 
-## Design
+## Colors
 - [:wrench: Contrast Grid](https://contrast-grid.eightshapes.com/)
 - [:star: :wrench: APCA Contrast Calculator](https://www.myndex.com/APCA/)
 
@@ -109,33 +117,24 @@
 - [:wrench: CodeSandbox.io](https://codesandbox.io/)
 - [:star: Codepen](https://codepen.io/)
 
-## Tutorials
-- [MarkSheet](https://marksheet.io/)
-- [:star: :book: The 30 CSS Selectors you must memorize](https://code.tutsplus.com/fr/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
-- [JavaScript.info - The Modern JavaScript Tutorial](https://javascript.info/)
-- [:wrench: Unjquerify](https://www.unjquerify.com/)
-- [De jQuery à VanillaJs](https://putaindecode.io/articles/de-jquery-a-vanillajs/)
-- [Interneting is Hard](https://www.internetingishard.com/)
-- [:star: Mise en cache CSS/JS](https://blog.smarchal.com/mise-en-cache-js-css)
-
-### Flexbox
+## Flexbox
 - [:star: :book: MDN Flexbox](https://developer.mozilla.org/fr/docs/Apprendre/CSS/CSS_layout/Flexbox)
 - [:star: :video_game: Flexbox Froggy](https://flexboxfroggy.com/)
 - [:video_game: Flexbox Defense](http://www.flexboxdefense.com/)
 - [:star: :book: A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [LearnFlexbox](https://learnflexbox.org/)
 
-### Grid
+## Grid
 - [:star: :book: MDN Grid](https://developer.mozilla.org/fr/docs/Apprendre/CSS/CSS_layout/Grids)
 - [:star: :video_game: CSS Grid Garden](https://cssgridgarden.com/)
 - [:book: Grid Maven](http://grid.malven.co/)
 - [:star: :book: A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [:book: LearnCSSGrid](https://learncssgrid.com/)
 
-### WebAssembly
+## WebAssembly
 - [:book: MDN WebAssembly](https://developer.mozilla.org/fr/docs/WebAssembly)
 
-### Compilers
+## Compilers
 - [:star: PlantUML](https://plantuml.com/fr/)
 
 ## Utils
