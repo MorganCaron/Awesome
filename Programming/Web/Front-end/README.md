@@ -45,6 +45,7 @@
 - [Chakra UI](https://chakra-ui.com)
 - [Radix UI](https://www.radix-ui.com)
 - [:star: Aceternity UI](https://ui.aceternity.com)
+- [Tailwind](https://tailwindcss.com)
 
 ## Web-app frameworks
 - [Angular](https://angular.io/)
