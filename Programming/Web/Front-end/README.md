@@ -6,6 +6,8 @@
 
 ### CSS
 - [:star: :book: Google - Performant Parallaxing](https://developer.chrome.com/blog/performant-parallaxing/)
+- [:star: Grainy Gradients](https://css-tricks.com/grainy-gradients/)
+- [:star: Grainy Gradient playground](https://grainy-gradients.vercel.app)
 
 ### UX
 - [:video_game: How I experience web today](https://how-i-experience-web-today.com)
