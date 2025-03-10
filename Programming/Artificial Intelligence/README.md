@@ -46,9 +46,10 @@
 #### Mistral
 - [:star: :wrench: Mistral](https://chat.mistral.ai/chat)
 
-#### AgentGPT
-- [:star: :wrench: Demo AgentGPT](https://agentgpt.reworkd.ai)
+#### Agent
+- [:wrench: Demo AgentGPT](https://agentgpt.reworkd.ai)
 - [Github AgentGPT](https://github.com/reworkd/AgentGPT)
+- [Manus](https://manus.im/)
 
 #### Auto-GPT
 - [Github Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
