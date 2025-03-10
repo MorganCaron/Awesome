@@ -71,6 +71,7 @@
 
 ### Voice Generation
 - [:wrench: ElevenLabs](https://elevenlabs.io)
+- [:star: Sesame](https://www.sesame.com/)
 
 #### Models
 - [:star: :wrench: CivitAi - Stable Diffusion Models](https://civitai.com)
