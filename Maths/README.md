@@ -10,6 +10,7 @@
 
 ### Trigonometry
 - [:star: :book: Sinus & Cosinus](https://wordsandbuttons.online/sine_and_cosine.html)
+- [:star: Trig Visualiser](https://joeiddon.github.io/trig_visualiser/)
 
 ### Boolean logic
 - [:book: Table de Karnaugh](https://fr.wikipedia.org/wiki/Table_de_Karnaugh)
