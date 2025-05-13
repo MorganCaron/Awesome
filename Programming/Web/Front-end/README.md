@@ -102,6 +102,9 @@
 - [:star: Motion Canvas](https://motion-canvas.github.io)
 
 ## SEO
+- [:star: Google Search Console](https://search.google.com/search-console)
+- [:star: Google Lighthouse](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=fr)
+- [Google Analytics](https://analytics.google.com/)
 - [:book: Search Engine Optimization](https://en.wikipedia.org/wiki/Search_engine_optimization)
 - [SEO - Google Starter Guide](https://developers.google.com/search/docs/beginner/seo-starter-guide?hl=fr)
 - [SEO - Structured Data - Validator](https://developers.google.com/search/docs/appearance/structured-data?hl=fr)
