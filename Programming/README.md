@@ -71,7 +71,7 @@
 - [:star: :movie_camera: Comparing C to machine language](https://www.youtube.com/watch?v=yOyaJXpAYZQ)
 - [:book: Function prologue/epilogue](https://en.wikipedia.org/wiki/Function_prologue)
 - [:book: List of Java bytecode instructions](https://en.wikipedia.org/wiki/List_of_Java_bytecode_instructions)
-- [:book: Most vexing parse](https://en.wikipedia.org/wiki/Most_vexing_parse)
+- [:book: Meta-circular evaluator](https://en.wikipedia.org/wiki/Meta-circular_evaluator)
 
 ### Online Compilers
 - [Jupyter Notebook](https://jupyter.org)
