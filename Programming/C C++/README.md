@@ -28,6 +28,11 @@
 - [nlohmann/json](https://github.com/nlohmann/json)
 - [:star: SDL3 examples](https://examples.libsdl.org/SDL3/)
 
+### Documentation Generators
+- [Doxygen](https://doxygen.nl)
+- [Standardese](https://standardese.github.io)
+- [Doxide](https://doxide.org/)
+
 ### C
 - [C Internals](http://www.avabodh.com/cin/cin.html)
 - [learn-C.org](https://www.learn-c.org)

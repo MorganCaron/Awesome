@@ -94,6 +94,9 @@
 - [:book: A/B Testing](https://en.wikipedia.org/wiki/A/B_testing)
 - [Game UI Database](https://www.gameuidatabase.com)
 
+### Documentation Generators
+- [MkDocs](https://www.mkdocs.org)
+
 ## Specializations
 - [Algorithms](Algorithms/README.md)
 - [API](API/README.md)
