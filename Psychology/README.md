@@ -70,6 +70,8 @@
 - [:book: Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle)
 - [:book: Münchhausen trilemma](https://en.wikipedia.org/wiki/M%C3%BCnchhausen_trilemma)
 - [:book: Rational ignorance](https://en.wikipedia.org/wiki/Rational_ignorance)
+- [:book: Cobra Effect](https://fr.wikipedia.org/wiki/Effet_cobra)
+- [:book: Goodhart's law](https://fr.wikipedia.org/wiki/Loi_de_Goodhart)
 
 ## Razors
 - [:star: :book: Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
