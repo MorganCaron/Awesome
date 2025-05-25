@@ -50,6 +50,7 @@
 - [:wrench: Demo AgentGPT](https://agentgpt.reworkd.ai)
 - [Github AgentGPT](https://github.com/reworkd/AgentGPT)
 - [Manus](https://manus.im/)
+- [DeerFlow](https://github.com/bytedance/deer-flow)
 
 #### Auto-GPT
 - [Github Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
