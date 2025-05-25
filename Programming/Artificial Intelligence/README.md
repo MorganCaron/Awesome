@@ -51,6 +51,7 @@
 - [Github AgentGPT](https://github.com/reworkd/AgentGPT)
 - [Manus](https://manus.im/)
 - [DeerFlow](https://github.com/bytedance/deer-flow)
+- [Google Jules](https://jules.google)
 
 #### Auto-GPT
 - [Github Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
