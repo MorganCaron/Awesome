@@ -143,9 +143,6 @@
 ## Compilers
 - [:star: PlantUML](https://plantuml.com/fr/)
 
-## Public Databases
-- [DBpedia](https://fr.dbpedia.org)
-
 ## Utils
 - [:wrench: caniuse.com](https://caniuse.com/)
 - [:wrench: caniemail.com](https://www.caniemail.com/)
