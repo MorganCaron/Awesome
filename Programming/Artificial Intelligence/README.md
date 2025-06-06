@@ -52,6 +52,7 @@
 - [Manus](https://manus.im/)
 - [DeerFlow](https://github.com/bytedance/deer-flow)
 - [Google Jules](https://jules.google)
+- [Trae](https://www.trae.ai)
 
 #### Auto-GPT
 - [Github Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
