@@ -53,6 +53,7 @@
 - [DeerFlow](https://github.com/bytedance/deer-flow)
 - [Google Jules](https://jules.google)
 - [Trae](https://www.trae.ai)
+- [:star: Gemini CLI](https://github.com/google-gemini/gemini-cli)
 
 #### Auto-GPT
 - [Github Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
