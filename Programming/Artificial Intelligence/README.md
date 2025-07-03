@@ -53,6 +53,7 @@
 - [DeerFlow](https://github.com/bytedance/deer-flow)
 - [Google Jules](https://jules.google)
 - [Trae](https://www.trae.ai)
+- [OpenAI Codex](https://openai.com/codex/)
 - [Claude Code](https://github.com/anthropics/claude-code)
 - [:star: Gemini CLI](https://github.com/google-gemini/gemini-cli)
 
