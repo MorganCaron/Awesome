@@ -68,6 +68,11 @@
 - [isocpp.org](https://isocpp.org)
 - [:star: wrench: Clang Format Configurator](https://clang-format-configurator.site)
 
+## Graphics
+- [Wayland](https://wayland.freedesktop.org)
+- [:star: Wayland Book](https://wayland-book.com)
+- [:star: Wayland Protocol](https://wayland.app/protocols/)
+
 ### Game Engines
 - [Unreal Engine](https://www.unrealengine.com/)
 - [Wicked Engine](https://wickedengine.net)
