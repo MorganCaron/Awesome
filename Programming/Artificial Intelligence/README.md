@@ -46,6 +46,9 @@
 #### Mistral
 - [:star: :wrench: Mistral](https://chat.mistral.ai/chat)
 
+#### Kimi
+- [:wrench: Kimi](https://www.kimi.com/)
+
 #### Agent
 - [:wrench: Demo AgentGPT](https://agentgpt.reworkd.ai)
 - [Github AgentGPT](https://github.com/reworkd/AgentGPT)
