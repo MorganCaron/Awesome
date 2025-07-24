@@ -12,6 +12,7 @@
 - [:book: Fine-tuning](https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning))
 - [:book: Zero-shot learning](https://en.wikipedia.org/wiki/Zero-shot_learning)
 - [:book: One-shot learning](https://en.wikipedia.org/wiki/One-shot_learning_(computer_vision))
+- [:star: :book: bbycroft LLM](https://bbycroft.net/llm)
 
 ### Artificial Neural Network
 - [:star: :book: Double Zoom - Les algorithmes génétiques](http://doublezoom.free.fr/programmation/AG_Principe.php)
