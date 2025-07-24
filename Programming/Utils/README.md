@@ -4,7 +4,6 @@
 
 ## General
 - [:wrench: Gitignore](https://github.com/github/gitignore)
-- [Codacy](https://www.codacy.com/)
 - [Figma](https://www.figma.com/)
 - [Grafana](https://grafana.com/)
 - [:star: Tiobe Index](https://www.tiobe.com/tiobe-index/)
