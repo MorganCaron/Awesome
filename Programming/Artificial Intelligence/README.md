@@ -85,6 +85,7 @@
 
 #### Models
 - [:star: :wrench: CivitAi - Stable Diffusion Models](https://civitai.com)
+- [OpenAI - Open Models](http://openai.com/open-models)
 
 ### Search Engines
 - [:star: :wrench: Phind](https://www.phind.com/)
