@@ -56,6 +56,7 @@
 - [:book: Biais de disponibilité](https://fr.wikipedia.org/wiki/Heuristique_de_disponibilit%C3%A9)
 - [:book: Biais de normalité](https://fr.wikipedia.org/wiki/Biais_de_normalit%C3%A9)
 - [:book: Biais de ratio](https://fr.wikipedia.org/wiki/Biais_de_ratio)
+- [:book: Insensibilité à l'étendue](https://fr.wikipedia.org/wiki/Insensibilit%C3%A9_%C3%A0_l%27%C3%A9tendue)
 
 ## Principles
 - [:book: Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
