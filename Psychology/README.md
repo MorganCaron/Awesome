@@ -37,6 +37,7 @@
 - [:book: Pétition de principe](https://fr.wikipedia.org/wiki/P%C3%A9tition_de_principe)
 
 ## Cognitive Bias
+- [:star: :book: Le codex des biais cognitifs](https://upload.wikimedia.org/wikipedia/commons/1/16/The_Cognitive_Bias_Codex_%28French%29_-_John_Manoogian_III_%28jm3%29.svg)
 - [:book: Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
 - [:book: Cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance)
 - [:book: Barnum effect](https://en.wikipedia.org/wiki/Barnum_effect)
