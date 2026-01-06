@@ -32,6 +32,12 @@
 - [:book: B-Tree](https://fr.wikipedia.org/wiki/Arbre_B)
 - [:star: :movie_camera: B-Tree](https://www.youtube.com/watch?v=K1a2Bk8NrYQ)
 
+### Géométrie
+- [:book: Algorithme de tracé de segment de Bresenham](https://fr.wikipedia.org/wiki/Algorithme_de_trac%C3%A9_de_segment_de_Bresenham)
+- [:book: Algorithme de tracé de segment de Xiaolin Wu](https://fr.wikipedia.org/wiki/Algorithme_de_trac%C3%A9_de_segment_de_Xiaolin_Wu)
+- [:book: Algorithme de tracé d'arc de cercle de Bresenham](https://fr.wikipedia.org/wiki/Algorithme_de_trac%C3%A9_d%27arc_de_cercle_de_Bresenham)
+- [:book: Algorithme de tracé de cercle d'Andres](https://fr.wikipedia.org/wiki/Algorithme_de_tracé_de_cercle_d%27Andres)
+
 ---
 
 ### Legend
