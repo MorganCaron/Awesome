@@ -36,6 +36,7 @@
 - [:book: Sophisme de l'appel à l'ignorance](https://fr.wikipedia.org/wiki/Appel_à_l%27ignorance)
 - [:book: Pétition de principe](https://fr.wikipedia.org/wiki/P%C3%A9tition_de_principe)
 - [:book: Sophisme de la motte castrale](https://fr.wikipedia.org/wiki/Sophisme_de_la_motte_castrale)
+- [:book: Sophisme du moyen non distribué (undistributed middle)](https://en.wikipedia.org/wiki/Fallacy_of_the_undistributed_middle)
 
 ## Cognitive Bias
 - [:star: :book: Le codex des biais cognitifs](https://upload.wikimedia.org/wikipedia/commons/1/16/The_Cognitive_Bias_Codex_%28French%29_-_John_Manoogian_III_%28jm3%29.svg)
