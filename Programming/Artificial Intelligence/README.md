@@ -61,6 +61,9 @@
 - [OpenAI Codex](https://openai.com/codex/)
 - [Claude Code](https://github.com/anthropics/claude-code)
 - [:star: Gemini CLI](https://github.com/google-gemini/gemini-cli)
+- [:star: OpenCode](https://opencode.ai)
+- [OpenClaw](https://openclaw.ai)
+- [Hermes Agent](https://hermes-agent.nousresearch.com)
 
 #### Auto-GPT
 - [Github Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
@@ -87,6 +90,7 @@
 #### Models
 - [:star: :wrench: CivitAi - Stable Diffusion Models](https://civitai.com)
 - [OpenAI - Open Models](http://openai.com/open-models)
+- [Ollama Models](https://ollama.com/search)
 
 ### Search Engines
 - [:star: :wrench: Phind](https://www.phind.com/)
