@@ -64,6 +64,7 @@
 - [:star: OpenCode](https://opencode.ai)
 - [OpenClaw](https://openclaw.ai)
 - [Hermes Agent](https://hermes-agent.nousresearch.com)
+- [:star: Google Antigravity](https://antigravity.google)
 
 #### Auto-GPT
 - [Github Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
