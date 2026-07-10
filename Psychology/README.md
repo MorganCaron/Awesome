@@ -40,6 +40,7 @@
 - [:book: Sophisme du moyen non distribué (undistributed middle)](https://en.wikipedia.org/wiki/Fallacy_of_the_undistributed_middle)
 - [:book: Sophisme du joueur (Erreur du parieur)](https://fr.wikipedia.org/wiki/Erreur_du_parieur)
 - [:book: Sophisme de la double faute](https://fr.wikipedia.org/wiki/Two_wrongs_make_a_right)
+- [:book: Sophisme de l'appel à la pitié](https://fr.wikipedia.org/wiki/Argumentum_ad_misericordiam)
 
 ## Cognitive Bias
 - [:star: :book: Le codex des biais cognitifs](https://upload.wikimedia.org/wikipedia/commons/1/16/The_Cognitive_Bias_Codex_%28French%29_-_John_Manoogian_III_%28jm3%29.svg)
@@ -64,6 +65,8 @@
 - [:book: Biais de ratio](https://fr.wikipedia.org/wiki/Biais_de_ratio)
 - [:book: Insensibilité à l'étendue](https://fr.wikipedia.org/wiki/Insensibilit%C3%A9_%C3%A0_l%27%C3%A9tendue)
 - [:book: Biais du grand homme](https://fr.wikipedia.org/wiki/Th%C3%A9orie_du_grand_homme)
+- [:book: Heuristique d'affect](https://fr.wikipedia.org/wiki/Heuristique_d%27affect)
+- [:book: Effet victime identifiable](https://fr.wikipedia.org/wiki/Effet_victime_identifiable)
 
 ## Principles
 - [:book: Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
