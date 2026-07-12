@@ -23,7 +23,6 @@
 - [:wrench: DownForEveryoneOrJustMe](https://downforeveryoneorjustme.com/)
 - [:book: Comment apprendre la lecture rapide en 10 mins](https://nicolasberetti.com/ressources/comment-apprendre-la-lecture-rapide-en-10-min/)
 - [:wrench: Bitwarden](https://bitwarden.com/)
-- [:star: WebpageToPDF](https://webpagetopdf.com/)
 - [:wrench: Gitmoji](https://gitmoji.carloscuesta.me)
 - [:wrench: Let's Enhance](https://letsenhance.io)
 - [:wrench: Icaros](https://www.majorgeeks.com/files/details/icaros.html)
@@ -55,6 +54,11 @@
 - [:wrench: Google Slides](https://www.google.fr/intl/fr/slides/about/)
 - [:wrench: Google Forms](https://www.google.fr/intl/fr/forms/about/)
 - [:star: :wrench: Slides.com](https://slides.com/)
+
+## PDF
+- [:star: :wrench: WebpageToPDF](https://webpagetopdf.com/)
+- [:wrench: ILovePDF](https://www.ilovepdf.com/)
+- [:wrench: BenToPDF](https://www.bentopdf.com/)
 
 ## Job Search
 - [:star: LinkedIn](https://www.linkedin.com/)
