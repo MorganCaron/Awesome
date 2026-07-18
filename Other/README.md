@@ -83,6 +83,12 @@
 ## RGPD
 - [:star: :wrench: Takeout Google](https://takeout.google.com)
 
+## Duplicate files
+
+- [:wrench: Czkawka](https://czkawka.net)
+- [:wrench: dupeGuru](https://dupeguru.voltaicideas.net)
+- [:wrench: AllDup](https://alldup.de/en/alldup/download.php)
+
 ---
 
 ### Legend
