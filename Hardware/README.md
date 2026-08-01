@@ -9,6 +9,7 @@
 - [Screen Size Map](https://www.screensizemap.com/)
 - [WinDirStat](https://windirstat.net)
 - [Bottleneck Calculator](https://pc-builds.com/fr/bottleneck-calculator/)
+- [BottleneckPC](https://bottleneckpc.com/bottleneck-checker)
 - [HWiNFO](https://www.hwinfo.com/download/)
 
 ## Benchmark
