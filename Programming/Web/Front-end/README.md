@@ -89,6 +89,7 @@
 ## Github Pages
 - [:star: Hugo](https://gohugo.io)
 - [:star: Jekyll](https://jekyllrb.com)
+- [:star: Astro Starlight](https://starlight.astro.build/fr/)
 
 ## Other Libs / Frameworks
 - [TinyMCE](https://www.tiny.cloud/)
