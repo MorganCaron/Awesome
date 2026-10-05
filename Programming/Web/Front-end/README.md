@@ -102,6 +102,7 @@
 - [Elevator.js](http://tholman.com/elevator.js/)
 - [:star: Framer Motion Canvas](https://www.framer.com/motion/motioncanvas/)
 - [:star: Motion Canvas](https://motion-canvas.github.io)
+- [:star: Astro](https://astro.build)
 
 ## SEO
 - [:star: Google Search Console](https://search.google.com/search-console)
